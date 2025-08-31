@@ -54,8 +54,8 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>alphabetic.bbx</file>
-      <file>alphabetic.cbx</file>
+      <file>authoryear.bbx</file>
+      <file>authoryear.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
@@ -82,11 +82,11 @@
       <file>part_1_introduction/executive_summary/executive_summary.bib</file>
       <file>part_2_foundation/the_ai_revolution_in_critical_industries/the_ai_revolution_in_critical_industries.bib</file>
       <file>part_2_foundation/core_ai_concepts_for_critical_industries/core_ai_concepts_for_critical_industries.bib</file>
-      <file>part_3_governance_ethics_and_sustainability//data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence.bib</file>
-      <file>part_3_governance_ethics_and_sustainability//ai_security_and_safety/ai_security_and_safety.bib</file>
-      <file>part_3_governance_ethics_and_sustainability//governance_and_regulation/governance_and_regulation.bib</file>
-      <file>part_3_governance_ethics_and_sustainability//legal_and_liability_challenges/legal_and_liability_challenges.bib</file>
-      <file>part_3_governance_ethics_and_sustainability//ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint.bib</file>
+      <file>part_3_governance_ethics_and_sustainability/data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence.bib</file>
+      <file>part_3_governance_ethics_and_sustainability/ai_security_and_safety/ai_security_and_safety.bib</file>
+      <file>part_3_governance_ethics_and_sustainability/governance_and_regulation/governance_and_regulation.bib</file>
+      <file>part_3_governance_ethics_and_sustainability/legal_and_liability_challenges/legal_and_liability_challenges.bib</file>
+      <file>part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint.bib</file>
       <file>part_4_ai_in_practice/business_case_and_roi/business_case_and_roi.bib</file>
       <file>part_4_ai_in_practice/organisational_change/organisational_change.bib</file>
       <file>part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration.bib</file>

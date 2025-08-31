@@ -1,7 +1,30 @@
+# LaTeX auxiliary files
 *.aux
 *.bbl
 *.blg
+*.fdb_latexmk
+*.fls
 *.log
 *.out
 *.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bcf
+*.run.xml
+
+# Minted package temporary files
+_minted*
+
+# Generated PDF - It's often best practice to not track the compiled PDF
 *.pdf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*~
