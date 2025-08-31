@@ -45,7 +45,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labelalpha</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labelnamespec</bcf:key>
@@ -71,7 +71,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -172,7 +172,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>anyt</bcf:value>
+      <bcf:value>nyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -180,11 +180,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>true</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>full</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -288,7 +288,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labelalpha</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labelnamespec</bcf:key>
@@ -314,7 +314,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -395,11 +395,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>true</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>full</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -641,7 +641,8 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">subentry</bcf:option>
+    <bcf:option datatype="boolean">dashed</bcf:option>
+    <bcf:option datatype="boolean">mergedate</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -723,7 +724,7 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">subentry</bcf:option>
+    <bcf:option datatype="boolean">mergedate</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="xml">labelalphatemplate</bcf:option>
     <bcf:option datatype="xml">translit</bcf:option>
@@ -811,7 +812,7 @@
     <bcf:option datatype="boolean" backendout="1">doi</bcf:option>
     <bcf:option datatype="boolean" backendout="1">eprint</bcf:option>
     <bcf:option datatype="boolean" backendout="1">related</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">subentry</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">mergedate</bcf:option>
     <bcf:option datatype="boolean" backendout="1">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer" backendin="maxcitenames,maxbibnames,maxsortnames">maxnames</bcf:option>
     <bcf:option datatype="integer" backendin="mincitenames,minbibnames,minsortnames">minnames</bcf:option>
@@ -2361,11 +2362,11 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">part_1_introduction/executive_summary/executive_summary.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">part_2_foundation/the_ai_revolution_in_critical_industries/the_ai_revolution_in_critical_industries.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">part_2_foundation/core_ai_concepts_for_critical_industries/core_ai_concepts_for_critical_industries.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability//data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability//ai_security_and_safety/ai_security_and_safety.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability//governance_and_regulation/governance_and_regulation.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability//legal_and_liability_challenges/legal_and_liability_challenges.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability//ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability/data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability/ai_security_and_safety/ai_security_and_safety.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability/governance_and_regulation/governance_and_regulation.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability/legal_and_liability_challenges/legal_and_liability_challenges.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">part_4_ai_in_practice/business_case_and_roi/business_case_and_roi.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">part_4_ai_in_practice/organisational_change/organisational_change.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration.bib</bcf:datasource>
@@ -2411,19 +2412,114 @@
     <bcf:citekey order="25" intorder="1">Krizhevsky2012</bcf:citekey>
     <bcf:citekey order="26" intorder="1">Hochreiter1997</bcf:citekey>
     <bcf:citekey order="27" intorder="1">Adadi2018</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Wang2019</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Buolamwini2018</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Milvus2023</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">DataCamp2023</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">DataCamp2023</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Komprise2023</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">GeeksforGeeks2023</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">GeeksforGeeks2023</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">DataCamp2023</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">DataCamp2023</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Milvus2023</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">IBM2023DataGovernance</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Forbes2021</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Manjaray2024</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Carlini2023</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">NetApp2023</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Manjaray2024</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">NIST2020DataManagement</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">HPE2023</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">EWsolutions2023</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">Komprise2023</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">NomaSecurity2023</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">Lumenalta2023</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">TrendMicro2023</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">VerifyWise2023</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">SentinelOne2025</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">JoelAimuemojie2023</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">Wiz2023</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">TrendMicro2023</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">Ataccama2024</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">ActiveFence2023</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">Obeisun2025</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">Tigera2023</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">MonteCarloData2023</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">NIST2023AIRMF</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">EU_AI_Act_2024</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">SafetyGoogle2023</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">MaximAI2025</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">Buolamwini2018GenderShades</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">Adadi2018ExplainableAI</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">NIST2023AIRMF</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">IBM2023DataGovernance</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">GoogleSAIF2023</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">MaximAI2025</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">USCopyrightOffice2023</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">MayerBrown2023</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">Thompson2025</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">CooleyGO2023</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">USC2023</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">ECLiabilityAI2022</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">AaronHall2023</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">GiskardAI2023</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">DailyJournal2023</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">Informa2023</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">EY2023</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">CliffordChance2023</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">EuropaEU2022</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">CliffordChance2023</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">GlobalAILaw2023</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">BloombergLaw2023</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">AlvarezMarsal2023</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">Gronvall2023</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">Deloitte2023</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">ThomsonReuters2023</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">SirionAI2023</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">MWE2023</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">Icertis2023</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">Sharma2024</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">Proskauer2023</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">ByteBack2024</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">Firemind2023</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">TribeAI2023</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">DataCamp2023Insurance</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">Kerzner2023</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">Saul2023</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">HSFKramer2024</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">Kerzner2023</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">WikipediaAISustainability2023</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">IEA2025</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">ColumbiaEdu2023</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">Li2023</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">Wang2024</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">IntegrityEnergy2023</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">Li2023</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">EarthOrg2023</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">IBM2023Sustainability</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">Intel2023</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">Artefact2023</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">AIMultiple2023</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">RipiKAI2023</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">Fang2023</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">WEForum2023</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">SopraSteria2025</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">AccessPartnership2023</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">Exaud2023</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">AlgorithmWatch2023</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">PMI2025</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">ProfileTree2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="anyt">
+  <bcf:sortingtemplate name="nyt">
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2">
-      <bcf:sortitem order="1">labelalpha</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" final="1">
+    <bcf:sort order="2" final="1">
       <bcf:sortitem order="1">sortkey</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="4">
+    <bcf:sort order="3">
       <bcf:sortitem order="1">sortname</bcf:sortitem>
       <bcf:sortitem order="2">author</bcf:sortitem>
       <bcf:sortitem order="3">editor</bcf:sortitem>
@@ -2431,24 +2527,24 @@
       <bcf:sortitem order="5">sorttitle</bcf:sortitem>
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="5">
+    <bcf:sort order="4">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="6">
+    <bcf:sort order="5">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>
       <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="7">
+    <bcf:sort order="6">
       <bcf:sortitem order="1">volume</bcf:sortitem>
       <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="anyt/global//global/global"
+                name="nyt/global//global/global"
                 type="entry"
-                sortingtemplatename="anyt"
+                sortingtemplatename="nyt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

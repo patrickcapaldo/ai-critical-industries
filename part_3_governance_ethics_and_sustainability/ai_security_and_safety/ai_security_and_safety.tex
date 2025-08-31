@@ -3,18 +3,57 @@
 
 \section{Introduction}
 \label{sec:security_introduction}
+As Artificial Intelligence systems become increasingly integrated into critical industries, ensuring their security and safety is paramount. AI security focuses on protecting AI systems from malicious attacks and misuse, safeguarding their confidentiality, integrity, and availability. AI safety, on the other hand, broadly concerns preventing unintended negative consequences and ensuring that AI systems operate reliably and align with human values. This chapter will delve into the expanded attack surface introduced by AI, explore scenarios where systems can fail on their own, and outline frameworks for building secure and safe AI systems in high-stakes environments.
 
 \section{The Expanded Attack Surface of AI Systems}
 \label{sec:attack_surface}
+The integration of AI into various sectors significantly expands the cyber attack surface, creating new vulnerabilities and entry points for malicious actors \parencite{TrendMicro2023}. The attack surface in AI systems refers to the total set of components, entry points, and vectors that can be exploited to compromise an AI system's confidentiality, integrity, or availability \parencite{VerifyWise2023}.
+
+This expansion is due to several factors:
+\begin{itemize}
+    \item \textbf{New Components:} AI systems introduce novel components that can be targeted, including training data (which can be poisoned), model weights and architecture (which can be stolen or reverse-engineered), inputs and prompts (vulnerable to adversarial examples or prompt injection), and APIs and endpoints \parencite{SentinelOne2025}.
+    \item \textbf{Increased Complexity and Interconnectivity:} As AI systems become more deeply integrated into critical operations, their complexity and connections with other systems increase, providing more entry points and allowing breaches to cascade across networks \parencite{JoelAimuemojie2023}.
+    \item \textbf{Shadow AI:} Employees using unauthorized or unmonitored AI tools can introduce significant risks, including data exposure and compliance violations \parencite{Wiz2023}.
+    \item \textbf{AI-Enhanced Attacks:} Threat actors are leveraging AI to enhance their own capabilities, such as automating vulnerability discovery, accelerating account takeover attempts, and creating more sophisticated phishing campaigns \parencite{TrendMicro2023}.
+\end{itemize}
 
 \section{Safety and Reliability: When Systems Fail on Their Own}
 \label{sec:safety_and_reliability}
+Beyond malicious attacks, AI systems can also fail due to inherent design flaws, biases, or unexpected real-world conditions. These safety and reliability failures can have severe consequences, especially in critical industries:
+
+\begin{itemize}
+    \item \textbf{Bias and Discrimination:} AI models can inadvertently learn and perpetuate biases present in their training data, leading to discriminatory outcomes in areas like healthcare diagnostics or resource allocation \parencite{Ataccama2024}.
+    \item \textbf{Unintended Harmful Outputs:} Flaws in design or programming can cause AI systems to produce harmful content or make detrimental decisions, such as misdiagnoses or incorrect financial recommendations \parencite{ActiveFence2023}.
+    \item \textbf{Over-reliance and Lack of Human Oversight:} Over-reliance on autonomous AI systems without adequate human oversight can lead to accidents, as seen in some incidents involving autonomous vehicles where human intervention was necessary but not timely \parencite{Obeisun2025}.
+    \item \textbf{Brittleness and Lack of Robustness:} AI models can be brittle, meaning they may fail unexpectedly when faced with new or unforeseen situations that differ from their training data. This can lead to unpredictable behavior in dynamic critical environments \parencite{Tigera2023}.
+    \item \textbf{AI Hallucinations:} Generative AI models can confidently produce false or nonsensical outputs, a common reliability pitfall that can lead to misinformation or incorrect actions \parencite{MonteCarloData2023}.
+\end{itemize}
 
 \section{A Framework for AI Security and Safety}
 \label{sec:security_framework}
+To mitigate these risks, several frameworks have been developed to guide the responsible design, development, and deployment of AI systems:
+
+\begin{itemize}
+    \item \textbf{NIST AI Risk Management Framework (AI RMF):} Developed by the U.S. National Institute of Standards and Technology, this voluntary framework provides structured guidance for identifying, assessing, and mitigating risks associated with AI systems. It emphasizes trustworthiness, security, reliability, and resilience \parencite{NIST2023AIRMF}.
+    \item \textbf{EU AI Act:} This pioneering legislative framework categorizes AI systems based on their risk level, imposing stricter requirements on high-risk applications. It mandates rigorous risk assessments, transparency obligations, and stringent data governance measures to prevent biases and protect personal data \parencite{EU_AI_Act_2024}.
+    \item \textbf{Google's Secure AI Framework (SAIF):} SAIF focuses on integrating security practices throughout the entire lifecycle of AI system development, from design to deployment and maintenance. It aims to ensure that AI models are secure by default \parencite{SafetyGoogle2023}.
+    \item \textbf{Core Principles of Trustworthy AI:} Many frameworks and guidelines emphasize foundational principles such as accountability, explainability (understanding AI decisions), fairness (mitigating bias), interpretability and transparency, privacy and security, reliability and robustness (consistent performance), and safety (minimizing harm) \parencite{MaximAI2025}.
+\end{itemize}
 
 \section{Leader's Toolkit}
 \label{sec:security_leaders_toolkit}
+For leaders in critical industries, a proactive approach to AI security and safety is non-negotiable. This involves:
+\begin{itemize}
+    \item \textbf{Implementing Robust Governance:} Establishing clear policies, roles, and responsibilities for AI development and deployment, with a strong emphasis on risk management.
+    \item \textbf{Prioritizing Security by Design:} Integrating security measures from the initial design phase of AI systems, rather than as an afterthought.
+    \item \textbf{Ensuring Data Integrity and Quality:} Recognizing that secure and safe AI begins with high-quality, unbiased, and protected data.
+    \item \textbf{Fostering Explainability and Transparency:} Striving for AI models whose decisions can be understood and audited, especially in high-stakes applications.
+    \item \textbf{Promoting Continuous Monitoring and Auditing:} Regularly assessing AI system performance, security vulnerabilities, and adherence to safety protocols.
+    \item \textbf{Investing in Talent and Training:} Building internal expertise in AI security and safety, and fostering a culture of responsible AI development.
+\end{itemize}
 
 \section{Assessment Questions}
 \label{sec:security_assessment_questions}
+
+\section{Further Reading}
+\label{sec:security_further_reading}
