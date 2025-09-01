@@ -219,5 +219,5 @@
 \contentsline {section}{\numberline {24.5}Conclusion}{106}{section.24.5}%
 \contentsline {part}{VI\hspace {1em}Appendices}{107}{part.6}%
 \contentsline {chapter}{\numberline {A}Glossary}{109}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Answer Key}{111}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Universal Questions for Leaders}{113}{appendix.C}%
+\contentsline {chapter}{\numberline {B}Answer Key: Key Insights and Best Practices}{115}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Universal Questions for Leaders}{121}{appendix.C}%
