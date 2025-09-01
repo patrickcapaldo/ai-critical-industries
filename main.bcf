@@ -2510,6 +2510,37 @@
     <bcf:citekey order="123" intorder="1">AlgorithmWatch2023</bcf:citekey>
     <bcf:citekey order="124" intorder="1">PMI2025</bcf:citekey>
     <bcf:citekey order="125" intorder="1">ProfileTree2023</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">Smith2017</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">Johnson2018</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">Chen2019</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">Davis2020</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">Wang2021</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">smartdev.com</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">checkpoint.com</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">vktr.com</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">medium.com</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">smartdev.com</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">uppcsmagazine.com</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">uppcsmagazine.com</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">uppcsmagazine.com</bcf:citekey>
+    <bcf:citekey order="139" intorder="1">dlt.com</bcf:citekey>
+    <bcf:citekey order="140" intorder="1">rst.software</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">digitaldefynd.com</bcf:citekey>
+    <bcf:citekey order="142" intorder="1">checkpoint.com</bcf:citekey>
+    <bcf:citekey order="143" intorder="1">emizentech.ae</bcf:citekey>
+    <bcf:citekey order="144" intorder="1">intuz.com</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">scimedian.in</bcf:citekey>
+    <bcf:citekey order="146" intorder="1">scimedian.in</bcf:citekey>
+    <bcf:citekey order="147" intorder="1">tezeract.ai</bcf:citekey>
+    <bcf:citekey order="148" intorder="1">scimedian.in</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">designveloper.com</bcf:citekey>
+    <bcf:citekey order="150" intorder="1">georgetown.edu</bcf:citekey>
+    <bcf:citekey order="151" intorder="1">uppcsmagazine.com</bcf:citekey>
+    <bcf:citekey order="152" intorder="1">uppcsmagazine.com</bcf:citekey>
+    <bcf:citekey order="153" intorder="1">georgetown.edu</bcf:citekey>
+    <bcf:citekey order="154" intorder="1">checkpoint.com</bcf:citekey>
+    <bcf:citekey order="155" intorder="1">elewit.ventures</bcf:citekey>
+    <bcf:citekey order="156" intorder="1">rand.org</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
