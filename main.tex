@@ -4,35 +4,88 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}
+\usepackage{longtable}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
 \usepackage[backend=biber, style=authoryear]{biblatex}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tcolorbox}
+\usepackage{fontawesome5}
 
-\title{AI in Critical Industries: A Practical Guide for Leaders}
+\definecolor{tipcolor}{HTML}{C3E6CB}
+\definecolor{notecolor}{HTML}{B8DAFF}
+\definecolor{warningcolor}{HTML}{FFDDC7}
+
+\newtcolorbox{tip}[1][]{
+  colback=tipcolor,
+  colframe=tipcolor,
+  boxrule=0pt,
+  arc=4pt,
+  outer arc=4pt,
+  left=12pt,
+  right=12pt,
+  top=8pt,
+  bottom=8pt,
+  title=\textcolor{OliveGreen}{\faOwl~Tip},
+  fonttitle=\bfseries,
+  #1
+}
+
+\newtcolorbox{note}[1][]{
+  colback=notecolor,
+  colframe=notecolor,
+  boxrule=0pt,
+  arc=4pt,
+  outer arc=4pt,
+  left=12pt,
+  right=12pt,
+  top=8pt,
+  bottom=8pt,
+  title=\textcolor{blue}{\faInfoCircle~Note},
+  fonttitle=\bfseries,
+  #1
+}
+
+\newtcolorbox{warning}[1][]{
+  colback=warningcolor,
+  colframe=warningcolor,
+  boxrule=0pt,
+  arc=4pt,
+  outer arc=4pt,
+  left=12pt,
+  right=12pt,
+  top=8pt,
+  bottom=8pt,
+  title=\textcolor{orange}{\faExclamationTriangle~Warning},
+  fonttitle=\bfseries,
+  #1
+}
+
+\title{AI in Critical Industries: A Practical Guide for Technical Leaders}
 \author{Patrick Capaldo}
 \date{\today}
 
-% Add a bib resource for each chapter
 \addbibresource{part_1_introduction/executive_summary/executive_summary.bib}
-\addbibresource{part_2_foundation/the_ai_revolution_in_critical_industries/the_ai_revolution_in_critical_industries.bib}
 \addbibresource{part_2_foundation/core_ai_concepts_for_critical_industries/core_ai_concepts_for_critical_industries.bib}
-\addbibresource{part_3_governance_ethics_and_sustainability/data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence.bib}
+\addbibresource{part_2_foundation/the_ai_revolution_in_critical_industries/the_ai_revolution_in_critical_industries.bib}
 \addbibresource{part_3_governance_ethics_and_sustainability/ai_security_and_safety/ai_security_and_safety.bib}
+\addbibresource{part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint.bib}
+\addbibresource{part_3_governance_ethics_and_sustainability/data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence.bib}
 \addbibresource{part_3_governance_ethics_and_sustainability/governance_and_regulation/governance_and_regulation.bib}
 \addbibresource{part_3_governance_ethics_and_sustainability/legal_and_liability_challenges/legal_and_liability_challenges.bib}
-\addbibresource{part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint.bib}
-\addbibresource{part_4_ai_in_practice/business_case_and_roi/business_case_and_roi.bib}
-\addbibresource{part_4_ai_in_practice/organisational_change/organisational_change.bib}
-\addbibresource{part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration.bib}
 \addbibresource{part_4_ai_in_practice/cross_industry_case_study_review/cross_industry_case_study_review.bib}
+\addbibresource{part_4_ai_in_practice/organisational_change/organisational_change.bib}
 \addbibresource{part_4_ai_in_practice/systemic_risk_cross_industry_dependencies/systemic_risk_cross_industry_dependencies.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_healthcare/ai_in_healthcare.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_the_energy_sector/ai_in_the_energy_sector.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_the_communications_sector/ai_in_the_communications_sector.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_finance/ai_in_finance.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_transport/ai_in_transport.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_the_water_sector/ai_in_the_water_sector.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_food_and_agriculture/ai_in_food_and_agriculture.bib}
-\addbibresource{part_5_sector_deep_dives/ai_in_waste_management/ai_in_waste_management.bib}
+\addbibresource{part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration.bib}
 \addbibresource{part_5_sector_deep_dives/ai_in_defence/ai_in_defence.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_finance/ai_in_finance.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_food_and_agriculture/ai_in_food_and_agriculture.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_healthcare/ai_in_healthcare.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_the_communications_sector/ai_in_the_communications_sector.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_the_energy_sector/ai_in_the_energy_sector.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_the_water_sector/ai_in_the_water_sector.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_transport/ai_in_transport.bib}
+\addbibresource{part_5_sector_deep_dives/ai_in_waste_management/ai_in_waste_management.bib}
 \addbibresource{part_6_the_future/the_ai_adoption_playbook/the_ai_adoption_playbook.bib}
 \addbibresource{part_6_the_future/the_future_of_ai/the_future_of_ai.bib}
 
@@ -45,6 +98,7 @@
 
 \mainmatter
 
+\part{Introduction}
 \include{part_1_introduction/executive_summary/executive_summary}
 
 \part{Foundation}
@@ -59,11 +113,13 @@
 \include{part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint}
 
 \part{AI in Practice}
-\include{part_4_ai_in_practice/business_case_and_roi/business_case_and_roi}
 \include{part_4_ai_in_practice/organisational_change/organisational_change}
 \include{part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration}
 \include{part_4_ai_in_practice/cross_industry_case_study_review/cross_industry_case_study_review}
 \include{part_4_ai_in_practice/systemic_risk_cross_industry_dependencies/systemic_risk_cross_industry_dependencies}
+
+\part{The AI Adoption Playbook}
+\include{part_6_the_future/the_ai_adoption_playbook/the_ai_adoption_playbook}
 
 \part{Sector Deep Dives}
 \include{part_5_sector_deep_dives/ai_in_healthcare/ai_in_healthcare}
@@ -76,15 +132,12 @@
 \include{part_5_sector_deep_dives/ai_in_waste_management/ai_in_waste_management}
 \include{part_5_sector_deep_dives/ai_in_defence/ai_in_defence}
 
-\part{The Future}
-\include{part_6_the_future/the_ai_adoption_playbook/the_ai_adoption_playbook}
+\part{The Future of AI}
 \include{part_6_the_future/the_future_of_ai/the_future_of_ai}
 
 \appendix
 \part{Appendices}
 \include{appendices/glossary}
-\include{appendices/answer_key}
-\include{appendices/universal_questions_for_leaders}
 
 \backmatter
 \printbibliography
