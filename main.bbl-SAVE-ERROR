@@ -1,0 +1,2837 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{abduljabbar2019applications}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9603fcc60b3e2d20634460a80f3cc78b}{%
+           family={Abduljabbar},
+           familyi={A\bibinitperiod},
+           given={Rusul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87d8196a0cd47b6df4f13b0723c9c25d}{%
+           family={Dia},
+           familyi={D\bibinitperiod},
+           given={Hussein},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a546207b3dccd6d947478333f4b154b6}{%
+           family={Liyanage},
+           familyi={L\bibinitperiod},
+           given={Sohani},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4171369f23d3a0e65e6a8c8e7a6fb97d}{%
+           family={Bagloee},
+           familyi={B\bibinitperiod},
+           given={Saeed\bibnamedelima Asadi},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{d84bba33afd7531953acd926ae7a5236}
+      \strng{fullhash}{0d1d38f9cd9a60ce3f6399023217116e}
+      \strng{bibnamehash}{d84bba33afd7531953acd926ae7a5236}
+      \strng{authorbibnamehash}{d84bba33afd7531953acd926ae7a5236}
+      \strng{authornamehash}{d84bba33afd7531953acd926ae7a5236}
+      \strng{authorfullhash}{0d1d38f9cd9a60ce3f6399023217116e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{1}
+      \field{title}{Applications of artificial intelligence in transport: An overview}
+      \field{volume}{11}
+      \field{year}{2019}
+      \field{pages}{189}
+      \range{pages}{1}
+    \endentry
+    \entry{AccessPartnership2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b49273c52d298bff2d6ae1fdba9cedb}{%
+           family={{Access Partnership}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b49273c52d298bff2d6ae1fdba9cedb}
+      \strng{fullhash}{4b49273c52d298bff2d6ae1fdba9cedb}
+      \strng{bibnamehash}{4b49273c52d298bff2d6ae1fdba9cedb}
+      \strng{authorbibnamehash}{4b49273c52d298bff2d6ae1fdba9cedb}
+      \strng{authornamehash}{4b49273c52d298bff2d6ae1fdba9cedb}
+      \strng{authorfullhash}{4b49273c52d298bff2d6ae1fdba9cedb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Report}
+      \field{title}{{Green AI Practices}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.accesspartnership.com/
+      \endverb
+      \verb{url}
+      \verb https://www.accesspartnership.com/
+      \endverb
+    \endentry
+    \entry{Adadi2018ExplainableAI}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a9ff04737c73b2b3a33aa683bf3fbce}{%
+           family={Adadi},
+           familyi={A\bibinitperiod},
+           given={Amina},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9bcbdaf716d702fac9dc8cc5800ef30}{%
+           family={Berrada},
+           familyi={B\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{020b8c17b7a31bebb298656b5ca70bc3}
+      \strng{fullhash}{020b8c17b7a31bebb298656b5ca70bc3}
+      \strng{bibnamehash}{020b8c17b7a31bebb298656b5ca70bc3}
+      \strng{authorbibnamehash}{020b8c17b7a31bebb298656b5ca70bc3}
+      \strng{authornamehash}{020b8c17b7a31bebb298656b5ca70bc3}
+      \strng{authorfullhash}{020b8c17b7a31bebb298656b5ca70bc3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{52138\bibrangedash 52160}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2018.2870052
+      \endverb
+    \endentry
+    \entry{AlgorithmWatch2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e56793dffe64fbec4c0327367558459}{%
+           family={{AlgorithmWatch}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {AlgorithmWatch}%
+      }
+      \strng{namehash}{1e56793dffe64fbec4c0327367558459}
+      \strng{fullhash}{1e56793dffe64fbec4c0327367558459}
+      \strng{bibnamehash}{1e56793dffe64fbec4c0327367558459}
+      \strng{authorbibnamehash}{1e56793dffe64fbec4c0327367558459}
+      \strng{authornamehash}{1e56793dffe64fbec4c0327367558459}
+      \strng{authorfullhash}{1e56793dffe64fbec4c0327367558459}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://algorithmwatch.org/en/sustain-magazine-march-2023/}}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{AI and the Challenge of Sustainability}}
+      \field{year}{2023}
+    \endentry
+    \entry{aliyu2022review}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c6672e847cc7eccc46d8a54027965e53}{%
+           family={Aliyu},
+           familyi={A\bibinitperiod},
+           given={Aliyu\bibnamedelima Abubakar},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c374e0055109d36c37a207ef02e3bba}{%
+           family={Yusof},
+           familyi={Y\bibinitperiod},
+           given={Muhammad\bibnamedelimb Zaini\bibnamedelima Mohd},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e828581aa00707ae8071f8bf1c32d9c6}
+      \strng{fullhash}{e828581aa00707ae8071f8bf1c32d9c6}
+      \strng{bibnamehash}{e828581aa00707ae8071f8bf1c32d9c6}
+      \strng{authorbibnamehash}{e828581aa00707ae8071f8bf1c32d9c6}
+      \strng{authornamehash}{e828581aa00707ae8071f8bf1c32d9c6}
+      \strng{authorfullhash}{e828581aa00707ae8071f8bf1c32d9c6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific Research and Analysis}
+      \field{number}{4}
+      \field{title}{A Review on the Application of Artificial Intelligence in Renewable Energy}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.58624/ijsra.2022.v5.i4.0001
+      \endverb
+    \endentry
+    \entry{Artefact2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=59f47694f19e4612ba96f8b8ad534414}{%
+           family={Artefact},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{59f47694f19e4612ba96f8b8ad534414}
+      \strng{fullhash}{59f47694f19e4612ba96f8b8ad534414}
+      \strng{bibnamehash}{59f47694f19e4612ba96f8b8ad534414}
+      \strng{authorbibnamehash}{59f47694f19e4612ba96f8b8ad534414}
+      \strng{authornamehash}{59f47694f19e4612ba96f8b8ad534414}
+      \strng{authorfullhash}{59f47694f19e4612ba96f8b8ad534414}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Report or White Paper from Artefact}
+      \field{title}{AI for Industrial Efficiency}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.artefact.com/insights/
+      \endverb
+      \verb{url}
+      \verb https://www.artefact.com/insights/
+      \endverb
+    \endentry
+    \entry{boppiniti2022ethical}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bd7c50655fbb10414e93ff9a68958e6}{%
+           family={Boppiniti},
+           familyi={B\bibinitperiod},
+           given={Sai\bibnamedelima Teja},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3bd7c50655fbb10414e93ff9a68958e6}
+      \strng{fullhash}{3bd7c50655fbb10414e93ff9a68958e6}
+      \strng{bibnamehash}{3bd7c50655fbb10414e93ff9a68958e6}
+      \strng{authorbibnamehash}{3bd7c50655fbb10414e93ff9a68958e6}
+      \strng{authornamehash}{3bd7c50655fbb10414e93ff9a68958e6}
+      \strng{authorfullhash}{3bd7c50655fbb10414e93ff9a68958e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Engineering Journal for Research \& Development}
+      \field{note}{Accessed via globalscienceresearchjournals.org}
+      \field{number}{1}
+      \field{title}{ETHICAL IMPLICATIONS OF ARTIFICIAL INTELLIGENCE: A REVIEW OF EARLY RESEARCH AND PERSPECTIVES}
+      \field{volume}{7}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.iejrd.com/
+      \endverb
+      \verb{url}
+      \verb https://www.iejrd.com/
+      \endverb
+    \endentry
+    \entry{Bostrom2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=892acb64b0a9f67cbe51c2705c652a49}{%
+           family={Bostrom},
+           familyi={B\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{fullhash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{bibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authorbibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authornamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authorfullhash}{892acb64b0a9f67cbe51c2705c652a49}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Superintelligence: Paths, Dangers, Strategies}
+      \field{year}{2014}
+    \endentry
+    \entry{Buolamwini2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=694238e772e190a6c1c2e0c1e68ee000}{%
+           family={Buolamwini},
+           familyi={B\bibinitperiod},
+           given={Joy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2b0ffb56c5d1e4220c16c0258e02eae}{%
+           family={Gebru},
+           familyi={G\bibinitperiod},
+           given={Timnit},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=b2b40e7a0fdfbdbcf9af2da7c8e59417}{%
+           family={Friedler},
+           familyi={F\bibinitperiod},
+           given={Sorelle\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=74e7d878b09bbacd81917f355904ac86}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Christo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7fe4e489a518a520bac584499dd84f25}{%
+           family={Ziewitz},
+           familyi={Z\bibinitperiod},
+           given={Malte},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{fullhash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{bibnamehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{authorbibnamehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{authornamehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{authorfullhash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{editorbibnamehash}{ced6a6d64d543c825b5347a26ec357a4}
+      \strng{editornamehash}{ced6a6d64d543c825b5347a26ec357a4}
+      \strng{editorfullhash}{ced6a6d64d543c825b5347a26ec357a4}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1st Conference on Fairness, Accountability and Transparency}
+      \field{month}{23--24 Feb}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification}
+      \field{volume}{81}
+      \field{year}{2018}
+      \field{pages}{77\bibrangedash 91}
+      \range{pages}{15}
+      \verb{file}
+      \verb http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v81/buolamwini18a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v81/buolamwini18a.html
+      \endverb
+    \endentry
+    \entry{Buolamwini2018GenderShades}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=694238e772e190a6c1c2e0c1e68ee000}{%
+           family={Buolamwini},
+           familyi={B\bibinitperiod},
+           given={Joy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2b0ffb56c5d1e4220c16c0258e02eae}{%
+           family={Gebru},
+           familyi={G\bibinitperiod},
+           given={Timnit},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b2b40e7a0fdfbdbcf9af2da7c8e59417}{%
+           family={Friedler},
+           familyi={F\bibinitperiod},
+           given={Sorelle\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=74e7d878b09bbacd81917f355904ac86}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Christo},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{fullhash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{bibnamehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{authorbibnamehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{authornamehash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{authorfullhash}{1d3df5a4e120235c82cc5c5428e6a913}
+      \strng{editorbibnamehash}{fc436d4f91615ad727cf64a1b3179072}
+      \strng{editornamehash}{fc436d4f91615ad727cf64a1b3179072}
+      \strng{editorfullhash}{fc436d4f91615ad727cf64a1b3179072}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1st Conference on Fairness, Accountability and Transparency}
+      \field{month}{23--24 Feb}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification}
+      \field{volume}{81}
+      \field{year}{2018}
+      \field{pages}{77\bibrangedash 91}
+      \range{pages}{15}
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v81/buolamwini18a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v81/buolamwini18a.html
+      \endverb
+    \endentry
+    \entry{Chandola2009}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=818074037ed2f89ce51237af38dec11f}{%
+           family={Chandola},
+           familyi={C\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ddb7b9c38d8c15a70bc573ba4e51ea9}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Arindam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=efb90d78e35ff61d3bc639f5c6f3d822}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vipin},
+           giveni={V\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{135c55bbecd240d054a5541e3cf77609}
+      \strng{fullhash}{135c55bbecd240d054a5541e3cf77609}
+      \strng{bibnamehash}{135c55bbecd240d054a5541e3cf77609}
+      \strng{authorbibnamehash}{135c55bbecd240d054a5541e3cf77609}
+      \strng{authornamehash}{135c55bbecd240d054a5541e3cf77609}
+      \strng{authorfullhash}{135c55bbecd240d054a5541e3cf77609}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-0300}
+      \field{journaltitle}{ACM Comput. Surv.}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{Anomaly Detection: A Survey}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{15:1\bibrangedash 15:58}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/1541880.1541882
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1541880.1541882
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1541880.1541882
+      \endverb
+      \keyw{anomaly,application,detection,outlier,series,survey,time}
+    \endentry
+    \entry{cisc2025artificial}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f458a9aab37353f924bc6622e810a768}{%
+           family={{Critical Infrastructure Security Centre (CISC)}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f458a9aab37353f924bc6622e810a768}
+      \strng{fullhash}{f458a9aab37353f924bc6622e810a768}
+      \strng{bibnamehash}{f458a9aab37353f924bc6622e810a768}
+      \strng{authorbibnamehash}{f458a9aab37353f924bc6622e810a768}
+      \strng{authornamehash}{f458a9aab37353f924bc6622e810a768}
+      \strng{authorfullhash}{f458a9aab37353f924bc6622e810a768}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.cisc.gov.au/}}
+      \field{note}{Accessed: September 1, 2025}
+      \field{title}{{Artificial Intelligence in Critical Infrastructure Factsheet}}
+      \field{year}{2025}
+    \endentry
+    \entry{DataCamp2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f469db1ec04b5fb8ad05902538a7b27}{%
+           family={{DataCamp}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f469db1ec04b5fb8ad05902538a7b27}
+      \strng{fullhash}{5f469db1ec04b5fb8ad05902538a7b27}
+      \strng{bibnamehash}{5f469db1ec04b5fb8ad05902538a7b27}
+      \strng{authorbibnamehash}{5f469db1ec04b5fb8ad05902538a7b27}
+      \strng{authornamehash}{5f469db1ec04b5fb8ad05902538a7b27}
+      \strng{authorfullhash}{5f469db1ec04b5fb8ad05902538a7b27}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.datacamp.com/blog/data-life-cycle-theory}}
+      \field{note}{Accessed: 2025-08-31}
+      \field{title}{{The Data Science Lifecycle}}
+      \field{year}{2023}
+    \endentry
+    \entry{DataFloq2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c097af069849f7fd0f7c1df8aaec37d}{%
+           family={{DataFloq}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {DataFloq}%
+      }
+      \strng{namehash}{3c097af069849f7fd0f7c1df8aaec37d}
+      \strng{fullhash}{3c097af069849f7fd0f7c1df8aaec37d}
+      \strng{bibnamehash}{3c097af069849f7fd0f7c1df8aaec37d}
+      \strng{authorbibnamehash}{3c097af069849f7fd0f7c1df8aaec37d}
+      \strng{authornamehash}{3c097af069849f7fd0f7c1df8aaec37d}
+      \strng{authorfullhash}{3c097af069849f7fd0f7c1df8aaec37d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://datafloq.com/ai-news-articles-analysis/}}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{AI in Critical Infrastructure: Benefits, Challenges, and Use Cases}}
+      \field{year}{2023}
+    \endentry
+    \entry{dignum2019responsible}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2038389dca7d321b07e82aa80cf4e902}{%
+           family={Dignum},
+           familyi={D\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{fullhash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{bibnamehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authorbibnamehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authornamehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authorfullhash}{2038389dca7d321b07e82aa80cf4e902}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way}
+      \field{year}{2019}
+    \endentry
+    \entry{dimcheva2024opportunities}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8d8388da832cbd4c6bc57b9423bf7a45}{%
+           family={Dimcheva},
+           familyi={D\bibinitperiod},
+           given={Gergana},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{8d8388da832cbd4c6bc57b9423bf7a45}
+      \strng{fullhash}{8d8388da832cbd4c6bc57b9423bf7a45}
+      \strng{bibnamehash}{8d8388da832cbd4c6bc57b9423bf7a45}
+      \strng{authorbibnamehash}{8d8388da832cbd4c6bc57b9423bf7a45}
+      \strng{authornamehash}{8d8388da832cbd4c6bc57b9423bf7a45}
+      \strng{authorfullhash}{8d8388da832cbd4c6bc57b9423bf7a45}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering Proceedings}
+      \field{number}{1}
+      \field{title}{Opportunities for Application of Artificial Intelligence in Telecommunication Projects}
+      \field{volume}{70}
+      \field{year}{2024}
+      \field{pages}{18}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/engproc2024070018
+      \endverb
+    \endentry
+    \entry{eera2025artificial}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9416bbe6444a0ad7f1c573e8b359c21}{%
+           family={{European Energy Research Alliance (EERA)}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {European Energy Research Alliance}%
+      }
+      \strng{namehash}{c9416bbe6444a0ad7f1c573e8b359c21}
+      \strng{fullhash}{c9416bbe6444a0ad7f1c573e8b359c21}
+      \strng{bibnamehash}{c9416bbe6444a0ad7f1c573e8b359c21}
+      \strng{authorbibnamehash}{c9416bbe6444a0ad7f1c573e8b359c21}
+      \strng{authornamehash}{c9416bbe6444a0ad7f1c573e8b359c21}
+      \strng{authorfullhash}{c9416bbe6444a0ad7f1c573e8b359c21}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EERA Analysis of the Implementation of Artificial Intelligence in the Energy Sector}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.eera-set.eu/publications.html
+      \endverb
+      \verb{url}
+      \verb https://www.eera-set.eu/publications.html
+      \endverb
+    \endentry
+    \entry{EU_AI_Act_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{{Official Journal of the European Union}}
+      \field{month}{7}
+      \field{title}{{Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act)}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+      \endverb
+    \endentry
+    \entry{EWsolutions2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5eb2aa2a4ba7f1ae00aeebdb19466dc1}{%
+           family={{EWsolutions}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5eb2aa2a4ba7f1ae00aeebdb19466dc1}
+      \strng{fullhash}{5eb2aa2a4ba7f1ae00aeebdb19466dc1}
+      \strng{bibnamehash}{5eb2aa2a4ba7f1ae00aeebdb19466dc1}
+      \strng{authorbibnamehash}{5eb2aa2a4ba7f1ae00aeebdb19466dc1}
+      \strng{authornamehash}{5eb2aa2a4ba7f1ae00aeebdb19466dc1}
+      \strng{authorfullhash}{5eb2aa2a4ba7f1ae00aeebdb19466dc1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ewsolutions.com/}}
+      \field{note}{General reference to EWsolutions' work on data security in the context of AI. Specific publication with this title from 2023 not found.}
+      \field{title}{{Data Security for AI}}
+      \field{year}{2023}
+    \endentry
+    \entry{Exaud2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5581bc5c45b75d36a360672a0263a265}{%
+           family={{Exaud}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5581bc5c45b75d36a360672a0263a265}
+      \strng{fullhash}{5581bc5c45b75d36a360672a0263a265}
+      \strng{bibnamehash}{5581bc5c45b75d36a360672a0263a265}
+      \strng{authorbibnamehash}{5581bc5c45b75d36a360672a0263a265}
+      \strng{authornamehash}{5581bc5c45b75d36a360672a0263a265}
+      \strng{authorfullhash}{5581bc5c45b75d36a360672a0263a265}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Specific publication not found. General reference to company's work.}
+      \field{title}{{Renewable Energy for AI}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://exaud.com/
+      \endverb
+      \verb{url}
+      \verb https://exaud.com/
+      \endverb
+    \endentry
+    \entry{Fang2023}{article}{}
+      \name{author}{4}{ul=4}{%
+        {{un=0,uniquepart=base,hash=aff258356e49063b886c9ce27c3b8096}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Bingbing},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14d23e03e9cabc79fbc75fcc6278123e}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jiacheng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58c0c8b337a38fa52d3f59dd184519aa}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhonghao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=653807f8836f3ab9326cba04e9a8e75b}{%
+           family={Osman},
+           familyi={O\bibinitperiod},
+           given={Ahmed\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{212947e35b5eaf484cedeebbc3eeb62e}
+      \strng{fullhash}{212947e35b5eaf484cedeebbc3eeb62e}
+      \strng{bibnamehash}{212947e35b5eaf484cedeebbc3eeb62e}
+      \strng{authorbibnamehash}{212947e35b5eaf484cedeebbc3eeb62e}
+      \strng{authornamehash}{212947e35b5eaf484cedeebbc3eeb62e}
+      \strng{authorfullhash}{212947e35b5eaf484cedeebbc3eeb62e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Chemistry Letters}
+      \field{number}{4}
+      \field{title}{Artificial intelligence for waste management in smart cities: a review}
+      \field{volume}{21}
+      \field{year}{2023}
+      \field{pages}{1959\bibrangedash 1989}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1007/s10311-023-01604-3
+      \endverb
+    \endentry
+    \entry{fang2023artificial}{article}{}
+      \name{author}{9}{ul=4}{%
+        {{un=0,uniquepart=base,hash=aff258356e49063b886c9ce27c3b8096}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Bingbing},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14d23e03e9cabc79fbc75fcc6278123e}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jiacheng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58c0c8b337a38fa52d3f59dd184519aa}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhonghao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=653807f8836f3ab9326cba04e9a8e75b}{%
+           family={Osman},
+           familyi={O\bibinitperiod},
+           given={Ahmed\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58fc27cd7eb59f9ebb7a4ba00d98d966}{%
+           family={Farghali},
+           familyi={F\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d14a6932b91dd49b8f6170a459c8e37}{%
+           family={Ihara},
+           familyi={I\bibinitperiod},
+           given={Ikko},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ee98eb6882178da07b637708790152e}{%
+           family={Hamza},
+           familyi={H\bibinitperiod},
+           given={Essam\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8affd5c6ae97c9df325acac4a2dc550}{%
+           family={Rooney},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c3d7e2e0ec4ac9790a7471548f0fcbd}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Pow-Seng},
+           giveni={P\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{26c3c3d99a823397a0b54d19bbc7b37f}
+      \strng{fullhash}{1d4d767763f37e826364c7d3a5beedec}
+      \strng{bibnamehash}{26c3c3d99a823397a0b54d19bbc7b37f}
+      \strng{authorbibnamehash}{26c3c3d99a823397a0b54d19bbc7b37f}
+      \strng{authornamehash}{26c3c3d99a823397a0b54d19bbc7b37f}
+      \strng{authorfullhash}{1d4d767763f37e826364c7d3a5beedec}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Chemistry Letters}
+      \field{title}{Artificial intelligence for waste management in smart cities: a review}
+      \field{volume}{21}
+      \field{year}{2023}
+      \field{pages}{1959\bibrangedash 1989}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1007/s10311-023-01604-3
+      \endverb
+    \endentry
+    \entry{fma2024understanding}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=08b75521487779898ccf763abc312dca}{%
+           family={{Financial Markets Authority}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Financial Markets Authority}%
+      }
+      \list{location}{1}{%
+        {Wellington, New Zealand}%
+      }
+      \strng{namehash}{08b75521487779898ccf763abc312dca}
+      \strng{fullhash}{08b75521487779898ccf763abc312dca}
+      \strng{bibnamehash}{08b75521487779898ccf763abc312dca}
+      \strng{authorbibnamehash}{08b75521487779898ccf763abc312dca}
+      \strng{authornamehash}{08b75521487779898ccf763abc312dca}
+      \strng{authorfullhash}{08b75521487779898ccf763abc312dca}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Understanding Artificial Intelligence in Financial Services}
+      \field{type}{techreport}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fma.govt.nz/news/all-releases/media-releases/understanding-artificial-intelligence-in-financial-services/
+      \endverb
+      \verb{url}
+      \verb https://www.fma.govt.nz/news/all-releases/media-releases/understanding-artificial-intelligence-in-financial-services/
+      \endverb
+    \endentry
+    \entry{GeeksforGeeks2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1e069787ece74531d112559945c6871}{%
+           family={{GeeksforGeeks}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.geeksforgeeks.org/data-science-lifecycle/}}
+      \field{month}{2}
+      \field{note}{Last updated: February 20, 2023. Accessed: August 31, 2025}
+      \field{title}{{Data Science Lifecycle}}
+      \field{year}{2023}
+    \endentry
+    \entry{Goodfellow-et-al-2016}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{fullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{bibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorbibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authornamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
+    \entry{GoogleSAIF2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={{Google}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://blog.google/technology/ai/google-secure-ai-framework/}}
+      \field{note}{A conceptual framework for secure AI systems, introduced on June 8, 2023.}
+      \field{title}{{Secure AI Framework (SAIF)}}
+      \field{year}{2023}
+    \endentry
+    \entry{goyal2020review}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fd62eb0367a057d14c8d8690f5d6dd9a}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Meenu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=eb6a64cf20a5b21db872c9ca0d491ed9}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{publisher}{1}{%
+        {Blue Eyes Intelligence Engineering & Sciences Publication}%
+      }
+      \strng{namehash}{95441c955fe5762a09dcdf4d6ab1824a}
+      \strng{fullhash}{95441c955fe5762a09dcdf4d6ab1824a}
+      \strng{bibnamehash}{95441c955fe5762a09dcdf4d6ab1824a}
+      \strng{authorbibnamehash}{95441c955fe5762a09dcdf4d6ab1824a}
+      \strng{authornamehash}{95441c955fe5762a09dcdf4d6ab1824a}
+      \strng{authorfullhash}{95441c955fe5762a09dcdf4d6ab1824a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Engineering and Advanced Technology (IJEAT)}
+      \field{number}{3}
+      \field{title}{A Review on Application of Artificial Intelligence in Water Quality Prediction}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{2249\bibrangedash 2253}
+      \range{pages}{5}
+    \endentry
+    \entry{Hochreiter1997}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=41b31e29fb2bdbf9f5c9c1b0d5b3e815}{%
+           family={Hochreiter},
+           familyi={H\bibinitperiod},
+           given={Sepp},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=288bdbcfe1b91ad7484d7a24f74f99ed}{%
+           family={Schmidhuber},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{4c2e1e2e1ac91e1df9d4f7b85ebe39b4}
+      \strng{fullhash}{4c2e1e2e1ac91e1df9d4f7b85ebe39b4}
+      \strng{bibnamehash}{4c2e1e2e1ac91e1df9d4f7b85ebe39b4}
+      \strng{authorbibnamehash}{4c2e1e2e1ac91e1df9d4f7b85ebe39b4}
+      \strng{authornamehash}{4c2e1e2e1ac91e1df9d4f7b85ebe39b4}
+      \strng{authorfullhash}{4c2e1e2e1ac91e1df9d4f7b85ebe39b4}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural computation}
+      \field{number}{8}
+      \field{title}{Long short-term memory}
+      \field{volume}{9}
+      \field{year}{1997}
+      \field{pages}{1735\bibrangedash 1780}
+      \range{pages}{46}
+    \endentry
+    \entry{hussain2024artificial}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0a0d2f58581fe92ecfcdc33569bea757}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Saddam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bf13fa68dd078d3263f0f0fc6fb15fb}{%
+           family={Al-Janabi},
+           familyi={A\bibinithyphendelim J\bibinitperiod},
+           given={Saif},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a963311ce827d96423ff4552ae527bcd}{%
+           family={Al-Sudani},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Zaid},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{d1250434e92aded14e0352d4c9812589}
+      \strng{fullhash}{d1250434e92aded14e0352d4c9812589}
+      \strng{bibnamehash}{d1250434e92aded14e0352d4c9812589}
+      \strng{authorbibnamehash}{d1250434e92aded14e0352d4c9812589}
+      \strng{authornamehash}{d1250434e92aded14e0352d4c9812589}
+      \strng{authorfullhash}{d1250434e92aded14e0352d4c9812589}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{number}{7}
+      \field{title}{Artificial Intelligence in the Water Sector: A Review of Its Current Applications and Future Prospects}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{936}
+      \range{pages}{1}
+    \endentry
+    \entry{IBM2023Sustainability}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ibm.com/blogs/research/2023/07/power-of-ai-sustainability/}}
+      \field{month}{7}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{The power of AI: Sustainability}}
+      \field{year}{2023}
+    \endentry
+    \entry{IBM2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{What is Critical Infrastructure?}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/critical-infrastructure
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/critical-infrastructure
+      \endverb
+    \endentry
+    \entry{IBM2023DataGovernance}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{What is data governance?}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/data-governance
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/data-governance
+      \endverb
+    \endentry
+    \entry{Intel2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff97a9fdede09eaf6e1c8ec9f6a61dd5}{%
+           family={{Intel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{fullhash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{bibnamehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{authorbibnamehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{authornamehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{authorfullhash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.intel.com/content/www/us/en/energy-industry/ai-in-energy.html}}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{AI for Energy Optimization}}
+      \field{year}{2023}
+    \endentry
+    \entry{IEA2025}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=680ce87ff3ae8510ed56f7f1a277d47e}{%
+           family={{International Energy Agency (IEA)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {International Energy Agency}%
+      }
+      \strng{namehash}{680ce87ff3ae8510ed56f7f1a277d47e}
+      \strng{fullhash}{680ce87ff3ae8510ed56f7f1a277d47e}
+      \strng{bibnamehash}{680ce87ff3ae8510ed56f7f1a277d47e}
+      \strng{authorbibnamehash}{680ce87ff3ae8510ed56f7f1a277d47e}
+      \strng{authornamehash}{680ce87ff3ae8510ed56f7f1a277d47e}
+      \strng{authorfullhash}{680ce87ff3ae8510ed56f7f1a277d47e}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{{AI and Energy}}
+      \field{type}{techreport}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.iea.org/reports/energy-and-ai
+      \endverb
+      \verb{url}
+      \verb https://www.iea.org/reports/energy-and-ai
+      \endverb
+    \endentry
+    \entry{isalkar2024artificial}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b749fe338204bebc720d8b6675e4afa5}{%
+           family={Isalkar},
+           familyi={I\bibinitperiod},
+           given={Asawari\bibnamedelima Satish},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e46feaef1d16932566566ad936f9cc8}{%
+           family={Sambhe},
+           familyi={S\bibinitperiod},
+           given={Rajeshkumar\bibnamedelima U},
+           giveni={R\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe4cdd1a6e54093c876a4730987b1f61}
+      \strng{fullhash}{fe4cdd1a6e54093c876a4730987b1f61}
+      \strng{bibnamehash}{fe4cdd1a6e54093c876a4730987b1f61}
+      \strng{authorbibnamehash}{fe4cdd1a6e54093c876a4730987b1f61}
+      \strng{authornamehash}{fe4cdd1a6e54093c876a4730987b1f61}
+      \strng{authorfullhash}{fe4cdd1a6e54093c876a4730987b1f61}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific Research in Science, Engineering and Technology}
+      \field{title}{Artificial Intelligence in Transportation: A Review}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.32628/IJSRSET2411212
+      \endverb
+    \endentry
+    \entry{Komprise2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04f35663b44ba178a51b9ba61068586f}{%
+           family={{Komprise}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{04f35663b44ba178a51b9ba61068586f}
+      \strng{fullhash}{04f35663b44ba178a51b9ba61068586f}
+      \strng{bibnamehash}{04f35663b44ba178a51b9ba61068586f}
+      \strng{authorbibnamehash}{04f35663b44ba178a51b9ba61068586f}
+      \strng{authornamehash}{04f35663b44ba178a51b9ba61068586f}
+      \strng{authorfullhash}{04f35663b44ba178a51b9ba61068586f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Company Report}
+      \field{title}{{State of Unstructured Data Management Report 2023: Data Storage and Management for AI}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.komprise.com/resources/reports/state-of-unstructured-data-management-report-2023/
+      \endverb
+      \verb{url}
+      \verb https://www.komprise.com/resources/reports/state-of-unstructured-data-management-report-2023/
+      \endverb
+    \endentry
+    \entry{kordana2023artificial}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da1f1d1dbeadd23682a0c8b4541accb7}{%
+           family={Kordana},
+           familyi={K\bibinitperiod},
+           given={Sylwia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=4b8209db346487b721dc69e285e6e253}{%
+           family={Hamrol},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5d92bc56f5460901a8145cbf9c7f4284}{%
+           family={Klich},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c604e03330b8f8e229500ded1f204218}{%
+           family={Kordana},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Cham}%
+      }
+      \strng{namehash}{da1f1d1dbeadd23682a0c8b4541accb7}
+      \strng{fullhash}{da1f1d1dbeadd23682a0c8b4541accb7}
+      \strng{bibnamehash}{da1f1d1dbeadd23682a0c8b4541accb7}
+      \strng{authorbibnamehash}{da1f1d1dbeadd23682a0c8b4541accb7}
+      \strng{authornamehash}{da1f1d1dbeadd23682a0c8b4541accb7}
+      \strng{authorfullhash}{da1f1d1dbeadd23682a0c8b4541accb7}
+      \strng{editorbibnamehash}{8faa2fb73977f858eb73ea4dfc9847f8}
+      \strng{editornamehash}{8faa2fb73977f858eb73ea4dfc9847f8}
+      \strng{editorfullhash}{8faa2fb73977f858eb73ea4dfc9847f8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Production Management Systems. AI for Open Innovation and Sustainable Manufacturing. APMS 2023}
+      \field{series}{IFIP Advances in Information and Communication Technology}
+      \field{title}{Artificial Intelligence in Waste Management in the Context of Implementing Circular Economy}
+      \field{volume}{692}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/978-3-031-43689-1_30
+      \endverb
+    \endentry
+    \entry{Krizhevsky2012}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c5e3a676e2ac1164b3afcd539c131fc9}{%
+           family={Krizhevsky},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d569d1d5b8b5a7836017a98b430f959}{%
+           family={Sutskever},
+           familyi={S\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=813bd95fe553e6079cd53a567b238287}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a23c09aa65b3c2ade45ed18d8127375}
+      \strng{fullhash}{1a23c09aa65b3c2ade45ed18d8127375}
+      \strng{bibnamehash}{1a23c09aa65b3c2ade45ed18d8127375}
+      \strng{authorbibnamehash}{1a23c09aa65b3c2ade45ed18d8127375}
+      \strng{authornamehash}{1a23c09aa65b3c2ade45ed18d8127375}
+      \strng{authorfullhash}{1a23c09aa65b3c2ade45ed18d8127375}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in neural information processing systems}
+      \field{title}{Imagenet classification with deep convolutional neural networks}
+      \field{year}{2012}
+      \field{pages}{1097\bibrangedash 1105}
+      \range{pages}{9}
+    \endentry
+    \entry{kumar2019role}{article}{}
+      \name{author}{3}{}{%
+        {{un=2,uniquepart=given,hash=19f536f34203969fcb522aabafe24ea3}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ashutosh},
+           giveni={A\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=999ca48dde65b3dd963f6ce370e4bd77}{%
+           family={Asthana},
+           familyi={A\bibinitperiod},
+           given={Stuti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e46a0017c8f931153eaea71966bdeb4}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Shweta},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6912c2463dad30155f0c4411475ddf57}
+      \strng{fullhash}{6912c2463dad30155f0c4411475ddf57}
+      \strng{bibnamehash}{6912c2463dad30155f0c4411475ddf57}
+      \strng{authorbibnamehash}{6912c2463dad30155f0c4411475ddf57}
+      \strng{authornamehash}{6912c2463dad30155f0c4411475ddf57}
+      \strng{authorfullhash}{6912c2463dad30155f0c4411475ddf57}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2456-6470}
+      \field{journaltitle}{International Journal of Trend in Scientific Research and Development (IJTSRD)}
+      \field{month}{8}
+      \field{number}{5}
+      \field{title}{Role of Artificial Intelligence in Telecommunication}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{pages}{931\bibrangedash 933}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://www.ijtsrd.com/papers/ijtsrd26622.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ijtsrd.com/papers/ijtsrd26622.pdf
+      \endverb
+    \endentry
+    \entry{kumar2025reviewai}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=db659c23a999f07871a194433e7dfbfa}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ranjeet},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{db659c23a999f07871a194433e7dfbfa}
+      \strng{fullhash}{db659c23a999f07871a194433e7dfbfa}
+      \strng{bibnamehash}{db659c23a999f07871a194433e7dfbfa}
+      \strng{authorbibnamehash}{db659c23a999f07871a194433e7dfbfa}
+      \strng{authornamehash}{db659c23a999f07871a194433e7dfbfa}
+      \strng{authorfullhash}{db659c23a999f07871a194433e7dfbfa}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Agriculture Extension and Social Development}
+      \field{number}{2}
+      \field{title}{A review of artificial intelligence in agriculture: Applications, challenges, and future prospects}
+      \field{volume}{8}
+      \field{year}{2025}
+      \field{pages}{342\bibrangedash 344}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.33545/26180723.2025.v8.i2e.1703
+      \endverb
+    \endentry
+    \entry{leyliabadi2025conceptual}{article}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=bfcfc2a2b7fc1ca208712da8848118a7}{%
+           family={Leyli-abadi},
+           familyi={L\bibinithyphendelim a\bibinitperiod},
+           given={Milad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6cf737840a317ac8799a289fa2c64bb}{%
+           family={Bessa},
+           familyi={B\bibinitperiod},
+           given={Ricardo\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40ded3a8c84ebfbd607fbbeddf3fd000}{%
+           family={Viebahn},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a650c867d522554d83c3082a0fea880b}{%
+           family={Boos},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c36f7805bf2a7eb1065df71007304c8}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Clark},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fe85a09ccac7d90a63651f0feb2cb40}{%
+           family={Castagna},
+           familyi={C\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=772ad29628ef45a4d1eb7b8d48fd1a77}{%
+           family={Chavarriaga},
+           familyi={C\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c67656f08ff6046dee72ebd76e78bfe}{%
+           family={Hassouna},
+           familyi={H\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19e09f2680a987e3fc6c51fadd1de60e}{%
+           family={Lemetayer},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3136091d4156cb43596eefc10ddfc939}{%
+           family={Leto},
+           familyi={L\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0b48bd7e0ef9ef48038e6ef305d1325}{%
+           family={Marot},
+           familyi={M\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d7d24be86d90017c082e10ebb0b37bc}{%
+           family={Meddeb},
+           familyi={M\bibinitperiod},
+           given={Maroua},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b92508be529f37c2bd4d3cb56bb5ee1}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8da6b1ce3cf90dca94ab0199e4ed95a}{%
+           family={Schiaffonati},
+           familyi={S\bibinitperiod},
+           given={Viola},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e85ef92b7389cff1dad44947cce545d5}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a076ece56adc686b29e2b2413daf4502}{%
+           family={Waefler},
+           familyi={W\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b917a4b88ec760e67ea82100d1a6873}
+      \strng{fullhash}{683a5c3acf8551019a86512369e2b4ca}
+      \strng{bibnamehash}{5b917a4b88ec760e67ea82100d1a6873}
+      \strng{authorbibnamehash}{5b917a4b88ec760e67ea82100d1a6873}
+      \strng{authornamehash}{5b917a4b88ec760e67ea82100d1a6873}
+      \strng{authorfullhash}{683a5c3acf8551019a86512369e2b4ca}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2504.16133}
+      \field{title}{A Conceptual Framework for AI-based Decision Systems in Critical Infrastructures}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2504.16133
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2504.16133
+      \endverb
+    \endentry
+    \entry{Li2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d65091e16e5b9faf16b05cf9bc5f91fc}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Pengfei},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=382479cb8879c413d413cc0d65c513e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jianyi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=050515eaa9ec0ac90f8b298cd750ae65}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Mohammad\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1371ce81e928bb368276f1cbcbd93dd9}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Shaolei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53db0b4373bfb8a3fd0a35788685d1f2}
+      \strng{fullhash}{13d301e7239a8f326db42d1550302af7}
+      \strng{bibnamehash}{53db0b4373bfb8a3fd0a35788685d1f2}
+      \strng{authorbibnamehash}{53db0b4373bfb8a3fd0a35788685d1f2}
+      \strng{authornamehash}{53db0b4373bfb8a3fd0a35788685d1f2}
+      \strng{authorfullhash}{13d301e7239a8f326db42d1550302af7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Communications of the ACM}
+      \field{note}{Accepted by Communications of the ACM}
+      \field{title}{Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2304.03271
+      \endverb
+    \endentry
+    \entry{lopez2019artificial}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=47c6cc31f14dd3b2a8eb637833abbe80}{%
+           family={Lopez-Rodriguez},
+           familyi={L\bibinithyphendelim R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92fdd3c6e917d2cd4aa5f0147ae3c6f7}{%
+           family={Bremser},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6264d3873a51e2d40b7eec863280155c}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cf1e9fc6ca9f541c4cba5104f58b6c5a}
+      \strng{fullhash}{cf1e9fc6ca9f541c4cba5104f58b6c5a}
+      \strng{bibnamehash}{cf1e9fc6ca9f541c4cba5104f58b6c5a}
+      \strng{authorbibnamehash}{cf1e9fc6ca9f541c4cba5104f58b6c5a}
+      \strng{authornamehash}{cf1e9fc6ca9f541c4cba5104f58b6c5a}
+      \strng{authorfullhash}{cf1e9fc6ca9f541c4cba5104f58b6c5a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Accounting Information Systems}
+      \field{title}{Artificial intelligence in finance: a review and future research agenda}
+      \field{volume}{34}
+      \field{year}{2019}
+      \field{pages}{100410}
+      \range{pages}{1}
+    \endentry
+    \entry{Lumenalta2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f53d223a9f4ddb02868d5db20de3566f}{%
+           family={{Lumenalta}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f53d223a9f4ddb02868d5db20de3566f}
+      \strng{fullhash}{f53d223a9f4ddb02868d5db20de3566f}
+      \strng{bibnamehash}{f53d223a9f4ddb02868d5db20de3566f}
+      \strng{authorbibnamehash}{f53d223a9f4ddb02868d5db20de3566f}
+      \strng{authornamehash}{f53d223a9f4ddb02868d5db20de3566f}
+      \strng{authorfullhash}{f53d223a9f4ddb02868d5db20de3566f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{General reference to Lumenalta's work on AI model-specific data management. Specific publication with this title from 2023 not found.}
+      \field{title}{{AI Model-Specific Data Management}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://lumenalta.com/
+      \endverb
+      \verb{url}
+      \verb https://lumenalta.com/
+      \endverb
+    \endentry
+    \entry{ma2020review}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=eaf49b21128928acf47824c9448382a1}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yige},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f73557a27a013cc8f1602fd0945ffa2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ziran},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdb896d082174f3844d4ce3c938f0cd0}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Haibing},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7a48bd91baa48860aa5128494067eea}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Lixing},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8ad4c104693d4a9d2406f0d51267f2de}
+      \strng{fullhash}{4f955ee596d49c5312d1788c68755c3d}
+      \strng{bibnamehash}{8ad4c104693d4a9d2406f0d51267f2de}
+      \strng{authorbibnamehash}{8ad4c104693d4a9d2406f0d51267f2de}
+      \strng{authornamehash}{8ad4c104693d4a9d2406f0d51267f2de}
+      \strng{authorfullhash}{4f955ee596d49c5312d1788c68755c3d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{number}{12}
+      \field{title}{A review of artificial intelligence in transportation systems}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{4944\bibrangedash 4963}
+      \range{pages}{20}
+    \endentry
+    \entry{aiindex2023}{report}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=ffd969951e4dc4ba80d575e0e53d3f87}{%
+           family={Maslej},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efe0e2d6bd1ecde775ccaff1f74ac583}{%
+           family={Fattorini},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63e380ddf79608c9432eb10ca8c4cdbb}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6871283eb077168f7bff346d43adabbc}{%
+           family={Etchemendy},
+           familyi={E\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=031808b2982e25088a89ea6d7a6c40fc}{%
+           family={Ligett},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b8449c3e24d235550a751eb22f8a0ea}{%
+           family={Lyons},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4f9754d6ecf6ae047fdf1425ffde09a}{%
+           family={Manyika},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21853c07a816c9327053dd2dae349d66}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9692086307e6b59a6daf0b7dfbc17303}{%
+           family={Niebles},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=655469b3516a9005f5dec4527a7ba7d9}{%
+           family={Parli},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8fb95e812a8beefe1be0c01447b216a}{%
+           family={Shoham},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00f5bd97326af8ea2532e51e2d95df08}{%
+           family={Wald},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5abc8a5f199ff13afd3806380eb67c1d}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73e9e2e2cc797b7b2bf1993388fed777}{%
+           family={Perrault},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {AI Index Steering Committee, Institute for Human-Centered AI, Stanford University}%
+      }
+      \strng{namehash}{4a472d1e4487a8483c9c0b0256ef030d}
+      \strng{fullhash}{85ec593e34a8f5ef357ceb89facc21f0}
+      \strng{bibnamehash}{4a472d1e4487a8483c9c0b0256ef030d}
+      \strng{authorbibnamehash}{4a472d1e4487a8483c9c0b0256ef030d}
+      \strng{authornamehash}{4a472d1e4487a8483c9c0b0256ef030d}
+      \strng{authorfullhash}{85ec593e34a8f5ef357ceb89facc21f0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The AI Index 2023 Annual Report}
+      \field{type}{techreport}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
+      \endverb
+      \verb{url}
+      \verb https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
+      \endverb
+    \endentry
+    \entry{MaximAI2025}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2a0dc7563df43570e2b9fc6910bb307}{%
+           family={{Maxim AI}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2a0dc7563df43570e2b9fc6910bb307}
+      \strng{fullhash}{a2a0dc7563df43570e2b9fc6910bb307}
+      \strng{bibnamehash}{a2a0dc7563df43570e2b9fc6910bb307}
+      \strng{authorbibnamehash}{a2a0dc7563df43570e2b9fc6910bb307}
+      \strng{authornamehash}{a2a0dc7563df43570e2b9fc6910bb307}
+      \strng{authorfullhash}{a2a0dc7563df43570e2b9fc6910bb307}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Maxim AI Blog}}
+      \field{month}{8}
+      \field{note}{Accessed on August 31, 2025}
+      \field{title}{{AI Reliability: How to Build Trustworthy AI Systems}}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.maxim.ai/blog/ai-reliability-how-to-build-trustworthy-ai-systems
+      \endverb
+      \verb{url}
+      \verb https://www.maxim.ai/blog/ai-reliability-how-to-build-trustworthy-ai-systems
+      \endverb
+    \endentry
+    \entry{Milvus2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f3d528166032bacea5de8a509bb4d17}{%
+           family={{Milvus}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f3d528166032bacea5de8a509bb4d17}
+      \strng{fullhash}{4f3d528166032bacea5de8a509bb4d17}
+      \strng{bibnamehash}{4f3d528166032bacea5de8a509bb4d17}
+      \strng{authorbibnamehash}{4f3d528166032bacea5de8a509bb4d17}
+      \strng{authornamehash}{4f3d528166032bacea5de8a509bb4d17}
+      \strng{authorfullhash}{4f3d528166032bacea5de8a509bb4d17}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online; General concept discussed by Milvus}
+      \field{note}{This entry refers to a general concept or topic discussed by Milvus in 2023, as no specific publication with this exact title was found.}
+      \field{title}{{The Data Lifecycle in AI/ML Projects}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://milvus.io/
+      \endverb
+      \verb{url}
+      \verb https://milvus.io/
+      \endverb
+    \endentry
+    \entry{NIST2020DataManagement}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3890a878cf9ff4b382a676b5d7d51181}{%
+           family={{National Institute of Standards and Technology (NIST)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{bibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorbibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authornamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{General reference to NIST's work on data management for AI. Specific publication with this title from 2020 not found.}
+      \field{title}{Data Management for AI}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.nist.gov/artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.nist.gov/artificial-intelligence
+      \endverb
+    \endentry
+    \entry{NIST2020}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3890a878cf9ff4b382a676b5d7d51181}{%
+           family={{National Institute of Standards and Technology (NIST)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Institute of Standards and Technology}%
+      }
+      \strng{namehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{bibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorbibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authornamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Includes updates as of December 10, 2020}
+      \field{number}{SP 800-53 Rev. 5}
+      \field{title}{{Security and Privacy Controls for Information Systems and Organizations}}
+      \field{type}{techreport}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+      \endverb
+      \verb{url}
+      \verb https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+      \endverb
+    \endentry
+    \entry{NomaSecurity2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b5b995273967d7f1002cb8dff0274a9}{%
+           family={{Noma Security}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b5b995273967d7f1002cb8dff0274a9}
+      \strng{fullhash}{5b5b995273967d7f1002cb8dff0274a9}
+      \strng{bibnamehash}{5b5b995273967d7f1002cb8dff0274a9}
+      \strng{authorbibnamehash}{5b5b995273967d7f1002cb8dff0274a9}
+      \strng{authornamehash}{5b5b995273967d7f1002cb8dff0274a9}
+      \strng{authorfullhash}{5b5b995273967d7f1002cb8dff0274a9}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{General reference to Noma Security's work on data availability and disaster recovery for AI. Specific publication with this title from 2023 not found.}
+      \field{title}{{Data Availability and Disaster Recovery for AI}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://nomasecurity.ai/
+      \endverb
+      \verb{url}
+      \verb https://nomasecurity.ai/
+      \endverb
+    \endentry
+    \entry{ProfileTree2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=879ad053acf49f633de151655c34997c}{%
+           family={ProfileTree},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{879ad053acf49f633de151655c34997c}
+      \strng{fullhash}{879ad053acf49f633de151655c34997c}
+      \strng{bibnamehash}{879ad053acf49f633de151655c34997c}
+      \strng{authorbibnamehash}{879ad053acf49f633de151655c34997c}
+      \strng{authornamehash}{879ad053acf49f633de151655c34997c}
+      \strng{authorfullhash}{879ad053acf49f633de151655c34997c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed August 31, 2025, if applicable}
+      \field{title}{{AI Lifecycle and Sustainability}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://profiletree.com/
+      \endverb
+      \verb{url}
+      \verb https://profiletree.com/
+      \endverb
+    \endentry
+    \entry{PMI2025}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ef4da9f3cd29e1ab68b3bc1995dc4a1}{%
+           family={{Project Management Institute}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Project Management Institute}%
+      }
+      \strng{namehash}{1ef4da9f3cd29e1ab68b3bc1995dc4a1}
+      \strng{fullhash}{1ef4da9f3cd29e1ab68b3bc1995dc4a1}
+      \strng{bibnamehash}{1ef4da9f3cd29e1ab68b3bc1995dc4a1}
+      \strng{authorbibnamehash}{1ef4da9f3cd29e1ab68b3bc1995dc4a1}
+      \strng{authornamehash}{1ef4da9f3cd29e1ab68b3bc1995dc4a1}
+      \strng{authorfullhash}{1ef4da9f3cd29e1ab68b3bc1995dc4a1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{This report is officially launching on Earth Day 2025 (April 23, 2025), but the research and initial findings that form its basis were likely conducted or discussed in 2023. It addresses the integration of AI and sustainability, which aligns with the user's query for "AI Governance and Sustainability".}
+      \field{title}{{Sustainability in the Age of AI – The Integration Imperative}}
+      \field{type}{techreport}
+      \field{year}{2025}
+    \endentry
+    \entry{reed2023future}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1b9f86c16975bd0ccc19ffa1b743ab0}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={E.\bibnamedelimi M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d1b9f86c16975bd0ccc19ffa1b743ab0}
+      \strng{fullhash}{d1b9f86c16975bd0ccc19ffa1b743ab0}
+      \strng{bibnamehash}{d1b9f86c16975bd0ccc19ffa1b743ab0}
+      \strng{authorbibnamehash}{d1b9f86c16975bd0ccc19ffa1b743ab0}
+      \strng{authornamehash}{d1b9f86c16975bd0ccc19ffa1b743ab0}
+      \strng{authorfullhash}{d1b9f86c16975bd0ccc19ffa1b743ab0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Future of Artificial Intelligence: A Review of Current Trends and Prospects}
+      \field{year}{2023}
+      \field{pages}{34\bibrangedash 57}
+      \range{pages}{24}
+    \endentry
+    \entry{RipiKAI2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b159cd12ec1cfc324714ddf39eba6b38}{%
+           family={{RipiK AI}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b159cd12ec1cfc324714ddf39eba6b38}
+      \strng{fullhash}{b159cd12ec1cfc324714ddf39eba6b38}
+      \strng{bibnamehash}{b159cd12ec1cfc324714ddf39eba6b38}
+      \strng{authorbibnamehash}{b159cd12ec1cfc324714ddf39eba6b38}
+      \strng{authornamehash}{b159cd12ec1cfc324714ddf39eba6b38}
+      \strng{authorfullhash}{b159cd12ec1cfc324714ddf39eba6b38}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Specific publication not found. General reference to company's work.}
+      \field{title}{{AI for Renewable Energy}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ripikai.com/
+      \endverb
+      \verb{url}
+      \verb https://ripikai.com/
+      \endverb
+    \endentry
+    \entry{rustandi2025ai}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89ddc06dc91295aeeb698d64be5617f3}{%
+           family={Rustandi},
+           familyi={R\bibinitperiod},
+           given={Rustandi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99a1d4f50c30229f4a30f1a93e9f7eb2}{%
+           family={Arifin},
+           familyi={A\bibinitperiod},
+           given={Andi\bibnamedelima Harmoko},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8dfeda6ec26d94107cbd43d4e49bcb0}
+      \strng{fullhash}{c8dfeda6ec26d94107cbd43d4e49bcb0}
+      \strng{bibnamehash}{c8dfeda6ec26d94107cbd43d4e49bcb0}
+      \strng{authorbibnamehash}{c8dfeda6ec26d94107cbd43d4e49bcb0}
+      \strng{authornamehash}{c8dfeda6ec26d94107cbd43d4e49bcb0}
+      \strng{authorfullhash}{c8dfeda6ec26d94107cbd43d4e49bcb0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceeding International Collaborative Conference on Multidisciplinary Science}
+      \field{number}{1}
+      \field{title}{AI in Finance: A Systematic Literature Review}
+      \field{volume}{2}
+      \field{year}{2025}
+      \field{pages}{24\bibrangedash 34}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.70062/iccms.v2i1.68
+      \endverb
+    \endentry
+    \entry{Samuel1959}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a34c1ec201fc249b01c996cf319ea383}{%
+           family={Samuel},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{fullhash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{bibnamehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{authorbibnamehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{authornamehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{authorfullhash}{a34c1ec201fc249b01c996cf319ea383}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-8646}
+      \field{journaltitle}{IBM Journal of Research and Development}
+      \field{number}{3}
+      \field{title}{Some Studies in Machine Learning Using the Game of Checkers}
+      \field{volume}{3}
+      \field{year}{1959}
+      \field{pages}{210\bibrangedash 229}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1147/rd.33.0210
+      \endverb
+    \endentry
+    \entry{satoh2023can}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bfb744183bb7110d642f05af6ab99adb}{%
+           family={Satoh},
+           familyi={S\bibinitperiod},
+           given={Hiroko},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23299e8f58f289a6a11758c5ba7efc83}{%
+           family={Hafner},
+           familyi={H\bibinitperiod},
+           given={Jasmin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b2538ddeb517075f48007298f6e5cd3}{%
+           family={Hutter},
+           familyi={H\bibinitperiod},
+           given={Jürg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc1e51811458d660d00f99bfbadde009}{%
+           family={Fenner},
+           familyi={F\bibinitperiod},
+           given={Kathrin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Swiss Chemical Society}%
+      }
+      \strng{namehash}{871af8624ad1cdb89550b141cae3356b}
+      \strng{fullhash}{7a216a41eaf1eb49e61fe2d194fa544d}
+      \strng{bibnamehash}{871af8624ad1cdb89550b141cae3356b}
+      \strng{authorbibnamehash}{871af8624ad1cdb89550b141cae3356b}
+      \strng{authornamehash}{871af8624ad1cdb89550b141cae3356b}
+      \strng{authorfullhash}{7a216a41eaf1eb49e61fe2d194fa544d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CHIMIA}
+      \field{number}{1-2}
+      \field{title}{Can AI Help Improve Water Quality? Towards the Prediction of Degradation of Micropollutants in Wastewater}
+      \field{volume}{77}
+      \field{year}{2023}
+      \field{pages}{48\bibrangedash 53}
+      \range{pages}{6}
+    \endentry
+    \entry{sayler2020artificial}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3f13c087e95031ef385dcb8f3db163e}{%
+           family={Sayler},
+           familyi={S\bibinitperiod},
+           given={Kelley\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Congressional Research Service}%
+      }
+      \strng{namehash}{c3f13c087e95031ef385dcb8f3db163e}
+      \strng{fullhash}{c3f13c087e95031ef385dcb8f3db163e}
+      \strng{bibnamehash}{c3f13c087e95031ef385dcb8f3db163e}
+      \strng{authorbibnamehash}{c3f13c087e95031ef385dcb8f3db163e}
+      \strng{authornamehash}{c3f13c087e95031ef385dcb8f3db163e}
+      \strng{authorfullhash}{c3f13c087e95031ef385dcb8f3db163e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Artificial Intelligence and National Security}
+      \field{year}{2020}
+    \endentry
+    \entry{sharma2023wastemanagement}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d474fd5be59cee75fc52e69001fcf91}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Anjali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7d474fd5be59cee75fc52e69001fcf91}
+      \strng{fullhash}{7d474fd5be59cee75fc52e69001fcf91}
+      \strng{bibnamehash}{7d474fd5be59cee75fc52e69001fcf91}
+      \strng{authorbibnamehash}{7d474fd5be59cee75fc52e69001fcf91}
+      \strng{authornamehash}{7d474fd5be59cee75fc52e69001fcf91}
+      \strng{authorfullhash}{7d474fd5be59cee75fc52e69001fcf91}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Science and Technology}
+      \field{number}{1}
+      \field{title}{The Role of AI and ML in Waste Management and Sustainability}
+      \field{volume}{20}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{HPE2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b7252d04679cd0aacea4f2fc121147ca}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Hewlett Packard Enterprise (HPE)}%
+        {Enterprise Strategy Group (ESG)}%
+      }
+      \strng{namehash}{b7252d04679cd0aacea4f2fc121147ca}
+      \strng{fullhash}{b7252d04679cd0aacea4f2fc121147ca}
+      \strng{bibnamehash}{b7252d04679cd0aacea4f2fc121147ca}
+      \strng{authorbibnamehash}{b7252d04679cd0aacea4f2fc121147ca}
+      \strng{authornamehash}{b7252d04679cd0aacea4f2fc121147ca}
+      \strng{authorfullhash}{b7252d04679cd0aacea4f2fc121147ca}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Based on the 2023 HPE Data and Infrastructure Management Maturity Survey}
+      \field{title}{Being a Data-first Leader Continues to Matter}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.hpe.com/us/en/newsroom/press-release/2023/11/hpe-research-highlights-rising-challenges-in-meeting-enterprise-data-demands.html
+      \endverb
+      \verb{url}
+      \verb https://www.hpe.com/us/en/newsroom/press-release/2023/11/hpe-research-highlights-rising-challenges-in-meeting-enterprise-data-demands.html
+      \endverb
+    \endentry
+    \entry{singh2024artificial}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ba9fb540d273ff8b91753c1eff4a13b}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={DAK},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ba9fb540d273ff8b91753c1eff4a13b}
+      \strng{fullhash}{2ba9fb540d273ff8b91753c1eff4a13b}
+      \strng{bibnamehash}{2ba9fb540d273ff8b91753c1eff4a13b}
+      \strng{authorbibnamehash}{2ba9fb540d273ff8b91753c1eff4a13b}
+      \strng{authornamehash}{2ba9fb540d273ff8b91753c1eff4a13b}
+      \strng{authorfullhash}{2ba9fb540d273ff8b91753c1eff4a13b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SCOPE Journal}
+      \field{number}{3}
+      \field{title}{The Role of Artificial Intelligence in Agriculture: A Comprehensive Review}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{1203\bibrangedash 1215}
+      \range{pages}{13}
+    \endentry
+    \entry{SopraSteria2025}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3458ebdf16fd944b018a0265e419673}{%
+           family={{Sopra Steria}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Sopra Steria}%
+      }
+      \strng{namehash}{e3458ebdf16fd944b018a0265e419673}
+      \strng{fullhash}{e3458ebdf16fd944b018a0265e419673}
+      \strng{bibnamehash}{e3458ebdf16fd944b018a0265e419673}
+      \strng{authorbibnamehash}{e3458ebdf16fd944b018a0265e419673}
+      \strng{authornamehash}{e3458ebdf16fd944b018a0265e419673}
+      \strng{authorfullhash}{e3458ebdf16fd944b018a0265e419673}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Report/Whitepaper. Please note: The requested year was 2023, but the closest matching publication found is from 2025.}
+      \field{title}{{Sustainable AI: Measuring, reducing and prioritising impact}}
+      \field{type}{techreport}
+      \field{year}{2025}
+    \endentry
+    \entry{subedi2023ai}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bcce362ddab029d61431666822d25dc}{%
+           family={Subedi},
+           familyi={S\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0bcce362ddab029d61431666822d25dc}
+      \strng{fullhash}{0bcce362ddab029d61431666822d25dc}
+      \strng{bibnamehash}{0bcce362ddab029d61431666822d25dc}
+      \strng{authorbibnamehash}{0bcce362ddab029d61431666822d25dc}
+      \strng{authornamehash}{0bcce362ddab029d61431666822d25dc}
+      \strng{authorfullhash}{0bcce362ddab029d61431666822d25dc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Big Data In Agriculture (BDA)}
+      \field{number}{2}
+      \field{title}{A Review On Use Of Artificial Intelligence And Machine Learning In Agriculture}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{pages}{71\bibrangedash 72}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.26480/bda.02.2023.71.72
+      \endverb
+      \verb{urlraw}
+      \verb https://bigdatainagriculture.com/paper/issue22023/2bda2023-71-72.pdf
+      \endverb
+      \verb{url}
+      \verb https://bigdatainagriculture.com/paper/issue22023/2bda2023-71-72.pdf
+      \endverb
+    \endentry
+    \entry{SuttonBarto2018}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eb920e5277d3d5fd0903f3cd41e11871}{%
+           family={Sutton},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32a0a208f8bcf56a13b0a8e618aa806a}{%
+           family={Barto},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT press}%
+      }
+      \strng{namehash}{c6212f1a1407d96a3d9f4fefbb07eade}
+      \strng{fullhash}{c6212f1a1407d96a3d9f4fefbb07eade}
+      \strng{bibnamehash}{c6212f1a1407d96a3d9f4fefbb07eade}
+      \strng{authorbibnamehash}{c6212f1a1407d96a3d9f4fefbb07eade}
+      \strng{authornamehash}{c6212f1a1407d96a3d9f4fefbb07eade}
+      \strng{authorfullhash}{c6212f1a1407d96a3d9f4fefbb07eade}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reinforcement learning: An introduction}
+      \field{year}{2018}
+    \endentry
+    \entry{NIST2023AIRMF}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da4d6f760817f258d4447d01266d3298}{%
+           family={Tabassi},
+           familyi={T\bibinitperiod},
+           given={Elham},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{3}{%
+        {NIST Trustworthy}%
+        {Responsible AI, National Institute of Standards}%
+        {Technology, Gaithersburg, MD}%
+      }
+      \strng{namehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{fullhash}{da4d6f760817f258d4447d01266d3298}
+      \strng{bibnamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorbibnamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authornamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorfullhash}{da4d6f760817f258d4447d01266d3298}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2023-01-26 05:01:00}
+      \field{title}{Artificial Intelligence Risk Management Framework (AI RMF 1.0)}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.6028/NIST.AI.100-1
+      \endverb
+      \verb{urlraw}
+      \verb https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936225
+      \endverb
+      \verb{url}
+      \verb https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936225
+      \endverb
+    \endentry
+    \entry{EnergyGov2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f6cd5b5b184ad5dcf66198edda1fe77}{%
+           family={{U.S. Department of Energy}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f6cd5b5b184ad5dcf66198edda1fe77}
+      \strng{fullhash}{7f6cd5b5b184ad5dcf66198edda1fe77}
+      \strng{bibnamehash}{7f6cd5b5b184ad5dcf66198edda1fe77}
+      \strng{authorbibnamehash}{7f6cd5b5b184ad5dcf66198edda1fe77}
+      \strng{authornamehash}{7f6cd5b5b184ad5dcf66198edda1fe77}
+      \strng{authorfullhash}{7f6cd5b5b184ad5dcf66198edda1fe77}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{U.S. Department of Energy, Office of Cybersecurity, Energy Security, and Emergency Response (CESER)}
+      \field{note}{Developed under Executive Order 14110, Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence}
+      \field{title}{{Potential Benefits and Risks of Artificial Intelligence for Critical Energy Infrastructure}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.energy.gov/sites/default/files/2024-04/DOE%20CESER_EO14110-AI%20Report%20Summary_4-26-24.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.energy.gov/sites/default/files/2024-04/DOE%20CESER_EO14110-AI%20Report%20Summary_4-26-24.pdf
+      \endverb
+    \endentry
+    \entry{dhs2024roles}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85cc31acb77259582411aed4a41dedc6}{%
+           family={{U.S. Department of Homeland Security}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Homeland Security}%
+      }
+      \strng{namehash}{85cc31acb77259582411aed4a41dedc6}
+      \strng{fullhash}{85cc31acb77259582411aed4a41dedc6}
+      \strng{bibnamehash}{85cc31acb77259582411aed4a41dedc6}
+      \strng{authorbibnamehash}{85cc31acb77259582411aed4a41dedc6}
+      \strng{authornamehash}{85cc31acb77259582411aed4a41dedc6}
+      \strng{authorfullhash}{85cc31acb77259582411aed4a41dedc6}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{Published on November 14, 2024}
+      \field{title}{{Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure}}
+      \field{type}{techreport}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.dhs.gov/sites/default/files/2024-11/24_1114_dhs_ai-roles-and-responsibilities-framework-508.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dhs.gov/sites/default/files/2024-11/24_1114_dhs_ai-roles-and-responsibilities-framework-508.pdf
+      \endverb
+    \endentry
+    \entry{TechNextCon2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=88183b946cc5f0e8c96b2e66e1c74a7e}{%
+           family={Unknown},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{fullhash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{bibnamehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authorbibnamehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authornamehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authorfullhash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Presented at TechNextCon 2023}
+      \field{note}{Further details needed for a complete entry}
+      \field{title}{The Role of AI in Critical Infrastructure Protection}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://technextcon.com/
+      \endverb
+      \verb{url}
+      \verb https://technextcon.com/
+      \endverb
+    \endentry
+    \entry{Wang2024}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=c26cc02bbb5db725a2c79cb200894d76}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9db3e81a73d7692afe488fcdedc3d8d0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lingyu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5878d36afcec38a8625f9ce67d5b4a2c}{%
+           family={Tzachor},
+           familyi={T\bibinitperiod},
+           given={Asaf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07963c0d38974d7d9e151397ac251643}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wei-Qiang},
+           giveni={W\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1945ae4f24598c69c95ba36c072b63da}
+      \strng{fullhash}{a82c2048508521f08e71e847dfe209bf}
+      \strng{bibnamehash}{1945ae4f24598c69c95ba36c072b63da}
+      \strng{authorbibnamehash}{1945ae4f24598c69c95ba36c072b63da}
+      \strng{authornamehash}{1945ae4f24598c69c95ba36c072b63da}
+      \strng{authorfullhash}{a82c2048508521f08e71e847dfe209bf}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Computational Science}
+      \field{number}{11}
+      \field{title}{E-waste challenges of generative artificial intelligence}
+      \field{volume}{4}
+      \field{year}{2024}
+      \field{pages}{818\bibrangedash 823}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s43588-024-00712-6
+      \endverb
+    \endentry
+    \entry{Wang2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{61ad10c626e1d641e0b1d7b5f48d3233}
+      \strng{fullhash}{61ad10c626e1d641e0b1d7b5f48d3233}
+      \strng{bibnamehash}{61ad10c626e1d641e0b1d7b5f48d3233}
+      \strng{authorbibnamehash}{61ad10c626e1d641e0b1d7b5f48d3233}
+      \strng{authornamehash}{61ad10c626e1d641e0b1d7b5f48d3233}
+      \strng{authorfullhash}{61ad10c626e1d641e0b1d7b5f48d3233}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{--}
+      \field{note}{Please verify publication details as exact match was not found.}
+      \field{number}{--}
+      \field{title}{Data Quality for AI and Machine Learning}
+      \field{volume}{--}
+      \field{year}{2019}
+      \field{pages}{--}
+      \range{pages}{-1}
+      \warn{\item Range field 'pages' in entry 'Wang2019' is malformed, falling back to literal}
+    \endentry
+    \entry{WikipediaAISustainability2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://en.wikipedia.org/wiki/AI_Sustainability}}
+      \field{note}{Accessed: 2025-08-31}
+      \field{title}{{AI Sustainability}}
+      \field{year}{2023}
+    \endentry
+    \entry{wef2020impact}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dcb867801e3469cb3956432294473b6}{%
+           family={{World Economic Forum and International Telecommunication Union}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {World Economic Forum}%
+      }
+      \strng{namehash}{7dcb867801e3469cb3956432294473b6}
+      \strng{fullhash}{7dcb867801e3469cb3956432294473b6}
+      \strng{bibnamehash}{7dcb867801e3469cb3956432294473b6}
+      \strng{authorbibnamehash}{7dcb867801e3469cb3956432294473b6}
+      \strng{authornamehash}{7dcb867801e3469cb3956432294473b6}
+      \strng{authorfullhash}{7dcb867801e3469cb3956432294473b6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{The Impact of Artificial Intelligence on the Telecommunication Industry}
+      \field{type}{techreport}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.weforum.org/publications/the-impact-of-artificial-intelligence-on-the-telecommunication-industry/
+      \endverb
+      \verb{url}
+      \verb https://www.weforum.org/publications/the-impact-of-artificial-intelligence-on-the-telecommunication-industry/
+      \endverb
+    \endentry
+    \entry{zepter2019review}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0b8861b3402e447171a0f53880de457a}{%
+           family={Zepter},
+           familyi={Z\bibinitperiod},
+           given={Jean-Marc},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7d2d7205e0441620dbd278d1f2d6aea}{%
+           family={Lüth},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=673a9a759c82aafdc687aeab5a8aeebf}{%
+           family={Crespo\bibnamedelimb del\bibnamedelima Granado},
+           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43088dfc37b7f10d7724c987a559805e}{%
+           family={Egging-Bratseth},
+           familyi={E\bibinithyphendelim B\bibinitperiod},
+           given={Ruud},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c21916523e071fe9d56463ea373d5a2}
+      \strng{fullhash}{357c1e907292de14b43debac49151563}
+      \strng{bibnamehash}{7c21916523e071fe9d56463ea373d5a2}
+      \strng{authorbibnamehash}{7c21916523e071fe9d56463ea373d5a2}
+      \strng{authornamehash}{7c21916523e071fe9d56463ea373d5a2}
+      \strng{authorfullhash}{357c1e907292de14b43debac49151563}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)}
+      \field{month}{10}
+      \field{title}{A Review of Artificial Intelligence in the Energy Sector}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ISGTEurope.2019.8905739
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{AIMultiple2023}
+  \missing{Checkpoint2023}
+  \missing{Chen2019}
+  \missing{ColumbiaEdu2023}
+  \missing{Davis2020}
+  \missing{EAJournals2023}
+  \missing{Johnson2018}
+  \missing{LeCun2015}
+  \missing{SafetyGoogle2023}
+  \missing{Sarker2021}
+  \missing{Smith2017}
+  \missing{WEForum2023}
+  \missing{Wang2021}
+\endrefsection
+\endinput
+
