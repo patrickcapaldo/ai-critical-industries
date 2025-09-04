@@ -15,9 +15,9 @@
 \contentsline {section}{\numberline {3.1}Introduction}{13}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Deconstructing AI: From General Intelligence to Narrow Tools}{13}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Machine Learning: The Engine of Modern AI}{14}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Deep Learning: The Next Level of Pattern Recognition}{14}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Deep Learning: The Next Level of Pattern Recognition}{15}{section.3.4}%
 \contentsline {section}{\numberline {3.5}The AI Project Lifecycle: A Structured Approach}{15}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Fundamental Limits and Realities}{15}{section.3.6}%
+\contentsline {section}{\numberline {3.6}Fundamental Limits and Realities}{16}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Leader's Toolkit}{16}{section.3.7}%
 \contentsline {part}{III\hspace {1em}Governance, Ethics, and Sustainability}{17}{part.3}%
 \contentsline {chapter}{\numberline {4}Data: The Fuel for Artificial Intelligence}{19}{chapter.4}%
@@ -100,13 +100,13 @@
 \contentsline {subsection}{\numberline {13.2.2}Phase 2: Pilot and Prototyping}{59}{subsection.13.2.2}%
 \contentsline {subsection}{\numberline {13.2.3}Phase 3: Scaling and Integration}{59}{subsection.13.2.3}%
 \contentsline {subsection}{\numberline {13.2.4}Phase 4: Governance and Continuous Improvement}{59}{subsection.13.2.4}%
-\contentsline {section}{\numberline {13.3}Key Considerations for Responsible AI Adoption}{59}{section.13.3}%
+\contentsline {section}{\numberline {13.3}Key Considerations for Responsible AI Adoption}{60}{section.13.3}%
 \contentsline {subsection}{\numberline {13.3.1}Safety and Reliability}{60}{subsection.13.3.1}%
 \contentsline {subsection}{\numberline {13.3.2}Cybersecurity}{60}{subsection.13.3.2}%
 \contentsline {subsection}{\numberline {13.3.3}Regulatory Compliance}{60}{subsection.13.3.3}%
 \contentsline {subsection}{\numberline {13.3.4}Ethical AI}{60}{subsection.13.3.4}%
 \contentsline {subsection}{\numberline {13.3.5}Data Governance}{60}{subsection.13.3.5}%
-\contentsline {subsection}{\numberline {13.3.6}Talent and Workforce Development}{60}{subsection.13.3.6}%
+\contentsline {subsection}{\numberline {13.3.6}Talent and Workforce Development}{61}{subsection.13.3.6}%
 \contentsline {subsection}{\numberline {13.3.7}Public Trust and Acceptance}{61}{subsection.13.3.7}%
 \contentsline {section}{\numberline {13.4}Conclusion}{61}{section.13.4}%
 \contentsline {part}{VI\hspace {1em}Sector Deep Dives}{63}{part.6}%
