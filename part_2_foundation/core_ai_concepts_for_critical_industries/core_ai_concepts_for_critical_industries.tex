@@ -16,13 +16,17 @@ The term ``Artificial Intelligence'' is often used as a catch-all phrase, leadin
 
 For leaders in critical industries, it is essential to recognize that current AI technologies are ANI tools. They are powerful instruments for solving specific problems but lack the general reasoning and contextual understanding of human intelligence.
 
+\begin{notebox}
+It is vital for leaders to distinguish between the theoretical concept of Artificial General Intelligence (AGI) and the practical reality of Artificial Narrow Intelligence (ANI). Current AI systems, while powerful, are specialized tools designed for specific tasks, not sentient entities.
+\end{notebox}
+
 \section{Machine Learning: The Engine of Modern AI}
 \label{sec:machine_learning}
 Machine learning is a subset of AI where systems learn from data without being explicitly programmed. Instead of relying on a set of predefined rules, machine learning algorithms identify patterns and relationships in data to make predictions or decisions \parencite{Samuel1959}. There are three main categories of machine learning:
 
-\begin{note}
+\begin{notebox}
 \textbf{AI vs. Machine Learning vs. Deep Learning:} It's helpful to think of these terms as nested concepts. Artificial Intelligence is the broadest field, encompassing the entire idea of creating intelligent machines. Machine Learning is a subset of AI that focuses on systems that learn from data. Deep Learning is a further subset of Machine Learning that uses complex, multi-layered neural networks to solve problems, and it has been the driving force behind the most recent wave of AI advancements.
-\end{note}
+\end{notebox}
 
 \begin{itemize}
     \item \textbf{Supervised Learning:} In supervised learning, the algorithm is trained on a labeled dataset, meaning that each data point is tagged with the correct output. The goal is to learn a mapping function that can predict the output for new, unseen data. A common application in critical industries is predictive maintenance, where historical data of equipment failures is used to predict future breakdowns \parencite{Sarker2021}.
@@ -46,6 +50,9 @@ The successful implementation of an AI project requires a structured approach, f
 \begin{enumerate}
     \item \textbf{Problem Definition and Feasibility:} Clearly defining the business problem to be solved and assessing the feasibility of an AI solution.
     \item \textbf{Data Acquisition and Preparation:} Gathering, cleaning, and preparing the data needed to train and test the AI model. This is often the most time-consuming phase of the project.
+    \begin{tipbox}
+Invest significant time and resources in data acquisition and preparation. High-quality, well-prepared data is the cornerstone of effective AI models, and neglecting this phase can lead to costly failures down the line.
+    \end{tipbox}
     \item \textbf{Model Development and Training:} Selecting the appropriate algorithm, developing the model, and training it on the prepared data.
     \item \textbf{Model Evaluation and Validation:} Assessing the performance of the trained model using various metrics and validating its effectiveness against the initial problem definition.
     \item \textbf{Deployment and Integration:} Integrating the model into the existing business processes and IT infrastructure.
@@ -60,8 +67,12 @@ Despite the rapid advancements in AI, it is important to be aware of its fundame
     \item \textbf{Data Dependency:} AI systems are highly dependent on the quality and quantity of data used to train them. Biased or incomplete data can lead to biased or inaccurate results.
     \item \textbf{Lack of Causality:} AI models are excellent at identifying correlations in data, but they do not understand causality. This means they can predict that something will happen, but not why it will happen.
     \item \textbf{Brittleness and Lack of Robustness:} AI models can be brittle, meaning they may fail unexpectedly when faced with new or unforeseen situations that differ from their training data.
-    - \textbf{Explainability and Transparency:}
+    \item \textbf{Explainability and Transparency:} Many AI models, particularly deep learning models, operate as "black boxes," making it difficult to understand their decision-making processes. This lack of transparency can be a significant barrier to trust and adoption, especially in high-stakes environments.
 \end{itemize}
+
+\begin{warningbox}
+Be acutely aware of the 'garbage in, garbage out' principle. AI models trained on biased, incomplete, or low-quality data will produce flawed or discriminatory results, potentially leading to severe operational or ethical consequences.
+\end{warningbox}
 
 \section{Leader's Toolkit}
 \label{sec:core_ai_leaders_toolkit}

@@ -10,55 +10,55 @@
 \usetikzlibrary{shapes.geometric, arrows}
 \usepackage[backend=biber, style=authoryear]{biblatex}
 \usepackage[dvipsnames]{xcolor}
-\usepackage{tcolorbox}
+\usepackage[breakable]{tcolorbox}
 
-\definecolor{tipcolor}{HTML}{C3E6CB}
-\definecolor{notecolor}{HTML}{B8DAFF}
-\definecolor{warningcolor}{HTML}{FFDDC7}
-
-\newtcolorbox{tip}[1][]{
-  colback=tipcolor,
-  colframe=OliveGreen,
-  boxrule=1pt,
-  arc=4pt,
-  outer arc=4pt,
-  left=12pt,
-  right=12pt,
-  top=8pt,
-  bottom=8pt,
-  title=\textbf{\faLightbulbO\ Tip},
-  fonttitle=\bfseries,
-  #1
+% Define custom tcolorboxes for notes, tips, and warnings
+\newtcolorbox{notebox}[1][]{
+    breakable,
+    colback=blue!5!white,
+    colframe=blue!75!black,
+    title=\textbf{\faInfoCircle\ General Note},
+    fonttitle=\bfseries,
+    boxsep=5pt,
+    arc=4pt,
+    boxrule=1pt,
+    left=10pt,
+    right=5pt,
+    top=5pt,
+    bottom=5pt,
+    #1
 }
 
-\newtcolorbox{note}[1][]{
-  colback=notecolor,
-  colframe=blue,
-  boxrule=1pt,
-  arc=4pt,
-  outer arc=4pt,
-  left=12pt,
-  right=12pt,
-  top=8pt,
-  bottom=8pt,
-  title=\textbf{Note},
-  fonttitle=\bfseries,
-  #1
+\newtcolorbox{tipbox}[1][]{
+    breakable,
+    colback=green!5!white,
+    colframe=green!75!black,
+    title=\textbf{\faLightbulbO\ Tip/Suggestion},
+    fonttitle=\bfseries,
+    boxsep=5pt,
+    arc=4pt,
+    boxrule=1pt,
+    left=10pt,
+    right=5pt,
+    top=5pt,
+    bottom=5pt,
+    #1
 }
 
-\newtcolorbox{warning}[1][]{
-  colback=warningcolor,
-  colframe=orange,
-  boxrule=1pt,
-  arc=4pt,
-  outer arc=4pt,
-  left=12pt,
-  right=12pt,
-  top=8pt,
-  bottom=8pt,
-  title=\textbf{Warning},
-  fonttitle=\bfseries,
-  #1
+\newtcolorbox{warningbox}[1][]{
+    breakable,
+    colback=orange!5!white,
+    colframe=orange!75!black,
+    title=\textbf{\faWarning\ Warning/Caution},
+    fonttitle=\bfseries,
+    boxsep=5pt,
+    arc=4pt,
+    boxrule=1pt,
+    left=10pt,
+    right=5pt,
+    top=5pt,
+    bottom=5pt,
+    #1
 }
 
 \title{AI in Critical Industries: A Practical Guide for Technical Leaders}
@@ -100,45 +100,45 @@
 \mainmatter
 
 \part{Introduction}
-\include{part_1_introduction/executive_summary/executive_summary}
+\input{part_1_introduction/executive_summary/executive_summary}
 
 \part{Foundation}
-\include{part_2_foundation/the_ai_revolution_in_critical_industries/the_ai_revolution_in_critical_industries}
-\include{part_2_foundation/core_ai_concepts_for_critical_industries/core_ai_concepts_for_critical_industries}
+\input{part_2_foundation/the_ai_revolution_in_critical_industries/the_ai_revolution_in_critical_industries}
+\input{part_2_foundation/core_ai_concepts_for_critical_industries/core_ai_concepts_for_critical_industries}
 
 \part{Governance, Ethics, and Sustainability}
-\include{part_3_governance_ethics_and_sustainability/data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence}
-\include{part_3_governance_ethics_and_sustainability/ai_security_and_safety/ai_security_and_safety}
-\include{part_3_governance_ethics_and_sustainability/governance_and_regulation/governance_and_regulation}
-\include{part_3_governance_ethics_and_sustainability/legal_and_liability_challenges/legal_and_liability_challenges}
-\include{part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint}
+\input{part_3_governance_ethics_and_sustainability/data_the_fuel_for_artificial_intelligence/data_the_fuel_for_artificial_intelligence}
+\input{part_3_governance_ethics_and_sustainability/ai_security_and_safety/ai_security_and_safety}
+\input{part_3_governance_ethics_and_sustainability/governance_and_regulation/governance_and_regulation}
+\input{part_3_governance_ethics_and_sustainability/legal_and_liability_challenges/legal_and_liability_challenges}
+\input{part_3_governance_ethics_and_sustainability/ai_sustainability_the_environmental_footprint/ai_sustainability_the_environmental_footprint}
 
 \part{AI in Practice}
-\include{part_4_ai_in_practice/organisational_change/organisational_change}
-\include{part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration}
-\include{part_4_ai_in_practice/cross_industry_case_study_review/cross_industry_case_study_review}
-\include{part_4_ai_in_practice/systemic_risk_cross_industry_dependencies/systemic_risk_cross_industry_dependencies}
+\input{part_4_ai_in_practice/organisational_change/organisational_change}
+\input{part_4_ai_in_practice/the_future_of_work_human_ai_collaboration/the_future_of_work_human_ai_collaboration}
+\input{part_4_ai_in_practice/cross_industry_case_study_review/cross_industry_case_study_review}
+\input{part_4_ai_in_practice/systemic_risk_cross_industry_dependencies/systemic_risk_cross_industry_dependencies}
 
 \part{The AI Adoption Playbook}
-\include{part_6_the_future/the_ai_adoption_playbook/the_ai_adoption_playbook}
+\input{part_6_the_future/the_ai_adoption_playbook/the_ai_adoption_playbook}
 
 \part{Sector Deep Dives}
-\include{part_5_sector_deep_dives/ai_in_healthcare/ai_in_healthcare}
-\include{part_5_sector_deep_dives/ai_in_the_energy_sector/ai_in_the_energy_sector}
-\include{part_5_sector_deep_dives/ai_in_the_communications_sector/ai_in_the_communications_sector}
-\include{part_5_sector_deep_dives/ai_in_finance/ai_in_finance}
-\include{part_5_sector_deep_dives/ai_in_transport/ai_in_transport}
-\include{part_5_sector_deep_dives/ai_in_the_water_sector/ai_in_the_water_sector}
-\include{part_5_sector_deep_dives/ai_in_food_and_agriculture/ai_in_food_and_agriculture}
-\include{part_5_sector_deep_dives/ai_in_waste_management/ai_in_waste_management}
-\include{part_5_sector_deep_dives/ai_in_defence/ai_in_defence}
+\input{part_5_sector_deep_dives/ai_in_healthcare/ai_in_healthcare}
+\input{part_5_sector_deep_dives/ai_in_the_energy_sector/ai_in_the_energy_sector}
+\input{part_5_sector_deep_dives/ai_in_the_communications_sector/ai_in_the_communications_sector}
+\input{part_5_sector_deep_dives/ai_in_finance/ai_in_finance}
+\input{part_5_sector_deep_dives/ai_in_transport/ai_in_transport}
+\input{part_5_sector_deep_dives/ai_in_the_water_sector/ai_in_the_water_sector}
+\input{part_5_sector_deep_dives/ai_in_food_and_agriculture/ai_in_food_and_agriculture}
+\input{part_5_sector_deep_dives/ai_in_waste_management/ai_in_waste_management}
+\input{part_5_sector_deep_dives/ai_in_defence/ai_in_defence}
 
 \part{The Future of AI}
-\include{part_6_the_future/the_future_of_ai/the_future_of_ai}
+\input{part_6_the_future/the_future_of_ai/the_future_of_ai}
 
 \appendix
 \part{Appendices}
-\include{appendices/glossary}
+\input{appendices/glossary}
 
 \backmatter
 \printbibliography
