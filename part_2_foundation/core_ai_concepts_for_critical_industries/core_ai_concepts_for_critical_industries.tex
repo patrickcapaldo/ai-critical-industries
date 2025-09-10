@@ -5,16 +5,17 @@
 \label{sec:core_ai_introduction}
 In this chapter, we will delve into the fundamental concepts of Artificial Intelligence (AI) that are particularly relevant to critical industries. We will explore the distinction between different types of AI, the underlying principles of machine learning and deep learning, the lifecycle of an AI project, and the inherent limitations of this technology. A solid understanding of these core concepts is essential for leaders to make informed decisions about AI adoption and to navigate the complexities of implementing AI in high-stakes environments.
 
-\section{Deconstructing AI: From General Intelligence to Narrow Tools}
+\section{Deconstructing AI: A Taxonomy of AI Maturity}
 \label{sec:deconstructing_ai}
-The term ``Artificial Intelligence'' is often used as a catch-all phrase, leading to confusion and misconceptions. For practical purposes, it is crucial to differentiate between two main types of AI:
+The term ``Artificial Intelligence'' is often used as a catch-all phrase, leading to confusion and misconceptions. For practical purposes, it is crucial to differentiate between the stages of AI maturity:
 
-\begin{itemize}
-    \item \textbf{Artificial General Intelligence (AGI):} This is the type of AI often depicted in science fiction, possessing human-like cognitive abilities and the capacity to understand, learn, and apply knowledge across a wide range of tasks. AGI does not currently exist and remains a theoretical concept \parencite{Bostrom2014}.
-    \item \textbf{Artificial Narrow Intelligence (ANI):} Also known as ``weak AI,'' ANI is designed to perform specific, well-defined tasks. This is the type of AI that is currently deployed in various industries. Examples include virtual assistants, language translation tools, and systems for predictive maintenance \parencite{Goodfellow-et-al-2016}.
-\end{itemize}
+\begin{description}
+    \item[Artificial Narrow Intelligence (ANI)] This is the current stage of AI development. ANI, also known as ``weak AI,'' is designed to perform a single task, such as playing chess, translating languages, or analyzing medical images. All the AI systems in use today are ANI.
+    \item[Artificial General Intelligence (AGI)] This is a hypothetical form of AI that could perform any intellectual task that a human can. AGI would be able to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly, and learn from experience. AGI does not currently exist.
+    \item[Artificial Super Intelligence (ASI)] This is a hypothetical form of AI that would surpass human intelligence in every aspect, from creativity and problem-solving to social skills. The development of ASI raises profound ethical and safety concerns, as its capabilities would be far beyond our own.
+\end{description}
 
-For leaders in critical industries, it is essential to recognize that current AI technologies are ANI tools. They are powerful instruments for solving specific problems but lack the general reasoning and contextual understanding of human intelligence.
+For leaders in critical industries, it is essential to recognize that current AI technologies are ANI tools. They are powerful instruments for solving specific problems but lack the general reasoning and contextual understanding of human intelligence. Understanding this taxonomy provides a clearer context for why continuous risk assessment and governance are so important as AI capabilities progress.
 
 \begin{notebox}
 It is vital for leaders to distinguish between the theoretical concept of Artificial General Intelligence (AGI) and the practical reality of Artificial Narrow Intelligence (ANI). Current AI systems, while powerful, are specialized tools designed for specific tasks, not sentient entities.
@@ -29,14 +30,14 @@ Machine learning is a subset of AI where systems learn from data without being e
 \end{notebox}
 
 \begin{itemize}
-    \item \textbf{Supervised Learning:} In supervised learning, the algorithm is trained on a labeled dataset, meaning that each data point is tagged with the correct output. The goal is to learn a mapping function that can predict the output for new, unseen data. A common application in critical industries is predictive maintenance, where historical data of equipment failures is used to predict future breakdowns \parencite{Sarker2021}.
+    \item \textbf{Supervised Learning:} In supervised learning, the algorithm is trained on a labeled dataset, meaning that each data point is tagged with the correct output. The goal is to learn a mapping function that can predict the output for new, unseen data. A common application in critical industries is predictive maintenance, where historical data of equipment failures is used to predict future breakdowns \parencite{Sarker2021MachineLearning}.
     \item \textbf{Unsupervised Learning:} Unsupervised learning algorithms work with unlabeled data, identifying hidden patterns and structures within the data itself. A key application is anomaly detection, where the algorithm learns the normal operating parameters of a system and flags any deviations that could indicate a potential issue, such as a cyber-attack or a system malfunction \parencite{Chandola2009}.
     \item \textbf{Reinforcement Learning:} Reinforcement learning involves an agent that learns to make decisions by taking actions in an environment to maximize a cumulative reward. This approach is well-suited for optimizing complex, dynamic systems, such as energy grids or traffic control systems \parencite{SuttonBarto2018}.
 \end{itemize}
 
 \section{Deep Learning: The Next Level of Pattern Recognition}
 \label{sec:deep_learning}
-Deep learning is a subfield of machine learning that uses multi-layered neural networks, known as deep neural networks, to learn from vast amounts of data. These networks are inspired by the structure and function of the human brain, with interconnected nodes (neurons) that process and transmit information \parencite{LeCun2015}. Key architectures in deep learning include:
+Deep learning is a subfield of machine learning that uses multi-layered neural networks, known as deep neural networks, to learn from vast amounts of data. These networks are inspired by the structure and function of the human brain, with interconnected nodes (neurons) that process and transmit information \parencite{LeCun2015DeepLearning}. Key architectures in deep learning include:
 
 \begin{itemize}
     \item \textbf{Convolutional Neural Networks (CNNs):} CNNs are particularly effective for image and video analysis. They are widely used in critical industries for tasks such as visual inspection of infrastructure, medical image analysis, and object detection in autonomous vehicles \parencite{Krizhevsky2012}.
