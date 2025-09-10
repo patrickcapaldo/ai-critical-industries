@@ -1,0 +1,42 @@
+\chapter{Generative AI and Large Language Models (LLMs)}
+\label{cha:generative_ai_and_llms}
+
+\section{Introduction}
+
+The rise of Generative AI (GenAI) and Large Language Models (LLMs) represents a paradigm shift in artificial intelligence. While the core concepts of AI, as discussed in previous chapters, apply to GenAI, these models present a unique set of capabilities, challenges, and risks, particularly in the context of critical industries. This chapter provides a foundational understanding of GenAI and LLMs, exploring their distinct characteristics and the implications for their application in mission-critical systems.
+
+\section{Key Concepts in Generative AI and LLMs}
+
+\subsection{Prompt Injection}
+
+Prompt injection is a vulnerability where an attacker manipulates the input (prompt) to an LLM to make it perform an unintended action. This can range from revealing sensitive information to generating malicious content.
+
+\subsection{Data Poisoning}
+
+Data poisoning involves corrupting the training data of an AI model. In the context of LLMs, this could lead to the model generating false, biased, or harmful information, which could have severe consequences in critical applications.
+
+\subsection{Model Hallucinations}
+
+Model hallucinations refer to instances where an LLM generates factually incorrect or nonsensical information. While these can be harmless in some contexts, in critical industries, a hallucination could lead to disastrous outcomes, such as providing incorrect instructions for operating machinery.
+
+\section{Evaluation and Testing for Critical Applications}
+
+The unique failure modes of GenAI and LLMs necessitate specialized evaluation benchmarks. Rigorous testing is crucial to ensure the reliability and safety of these models in mission-critical applications. This includes testing for vulnerabilities like prompt injection and data poisoning, as well as assessing the frequency and severity of model hallucinations.
+
+\section{Agentic AI}
+
+Agentic AI refers to AI systems that can act autonomously to achieve complex goals. This represents a significant step beyond current AI capabilities, but also introduces new risks. An agentic AI system in a critical industry, if not properly constrained and tested, could take actions with unforeseen and potentially catastrophic consequences.
+
+\section{Benefits and Risks in Critical Industries}
+
+\subsection{Example: Secure Code Generation}
+
+An LLM could be used to generate secure code for a power grid control system. This could improve the security and reliability of the system by reducing the likelihood of human error.
+
+\subsection{Example: Adversarial Attack}
+
+An adversarial attack could cause an LLM to produce malicious code. For example, an attacker could use prompt injection to trick the model into generating code with a hidden vulnerability, which could then be exploited to compromise the power grid.
+
+\section{Conclusion}
+
+Generative AI and LLMs offer immense potential for critical industries, but they also introduce new and complex risks. A thorough understanding of these risks, combined with rigorous testing and evaluation, is essential for the safe and responsible deployment of this technology.

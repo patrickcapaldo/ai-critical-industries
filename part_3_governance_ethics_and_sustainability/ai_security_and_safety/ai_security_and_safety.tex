@@ -5,36 +5,63 @@
 \label{sec:security_introduction}
 As Artificial Intelligence systems become increasingly integrated into critical industries, ensuring their security and safety is paramount. AI security focuses on protecting AI systems from malicious attacks and misuse, safeguarding their confidentiality, integrity, and availability. AI safety, on the other hand, broadly concerns preventing unintended negative consequences and ensuring that AI systems operate reliably and align with human values. This chapter will delve into the expanded attack surface introduced by AI, explore scenarios where systems can fail on their own, and outline frameworks for building secure and safe AI systems in high-stakes environments.
 
-\section{The Expanded Attack Surface of AI Systems}
-\label{sec:attack_surface}
+\section{Attacks Using AI}
+\label{sec:attacks_using_ai}
 
-The integration of AI into various sectors significantly expands the cyber attack surface. A comprehensive list of risks and challenges is available in the Master Risk Register (Appendix \ref{app:master_risk_register}). Key risks related to the expanded attack surface include:
-
-\begin{itemize}
-    \item New Components
-    \item Increased Complexity and Interconnectivity
-    \item Shadow AI
-    \item AI-Enhanced Attacks
-\end{itemize}
-
-\begin{warningbox}
-\textbf{The Risk of "Shadow AI":} Be particularly vigilant about "Shadow AI"—AI tools and systems used by employees without official approval or oversight. While often adopted for productivity gains, these unsanctioned applications can introduce significant security vulnerabilities, data privacy risks, and compliance breaches, as they operate outside of the organization's established security and governance frameworks.
-\end{warningbox}
-
-For a detailed description of each risk and potential mitigation strategies, please refer to the Master Risk Register in Appendix \ref{app:master_risk_register}.
-
-\section{Safety and Reliability: When Systems Fail on Their Own}
-\label{sec:safety_and_reliability}
-
-Beyond malicious attacks, AI systems can also fail due to inherent design flaws, biases, or unexpected real-world conditions. A comprehensive list of risks and challenges is available in the Master Risk Register (Appendix \ref{app:master_risk_register}). Key safety and reliability failures include:
+Adversaries can leverage AI to enhance the speed, scale, and sophistication of their attacks. This category of risks involves the use of AI as a tool to compromise systems, disrupt operations, or conduct malicious campaigns.
 
 \begin{itemize}
-    \item Bias and Discrimination
-    \item Unintended Harmful Outputs
-    \item Over-reliance and Lack of Human Oversight
-    \item Brittleness and Lack of Robustness
-    \item AI Hallucinations
+    \item \textbf{AI-Generated Malware:} AI can be used to create novel malware that can evade traditional signature-based detection systems. These AI-generated threats can adapt their behavior, making them more resilient and difficult to neutralize \parencite{DHS2024AIRisks}.
+    \item \textbf{Sophisticated Phishing Campaigns:} AI can generate highly personalized and convincing phishing emails, making them more likely to deceive recipients. This can lead to an increase in successful social engineering attacks.
 \end{itemize}
+
+\begin{tipbox}
+    \textbf{Mitigation Strategies:}
+    \begin{itemize}
+        \item Implement advanced threat detection systems that use AI to identify and block AI-generated malware.
+        \item Conduct regular employee training on identifying and reporting sophisticated phishing attempts.
+    \end{itemize}
+\end{tipbox}
+
+\section{Attacks on AI Systems}
+\label{sec:attacks_on_ai}
+
+This category of risks focuses on vulnerabilities within AI systems themselves. These attacks aim to manipulate the behavior of AI models, steal intellectual property, or cause them to fail.
+
+\begin{itemize}
+    \item \textbf{Adversarial Attacks:} These attacks involve feeding malicious inputs to an AI model to cause it to make incorrect predictions. For example, an adversary could make a small, imperceptible change to an image to cause an AI-powered object recognition system to misclassify it.
+    \item \textbf{Data Poisoning:} This involves corrupting the training data of an AI model to introduce biases or backdoors. A poisoned model may behave as intended during testing but fail in specific, attacker-chosen scenarios.
+    \item \textbf{Model Theft:} This involves stealing the intellectual property of an AI model. This can be done by querying the model and using the outputs to train a new model, or by exploiting vulnerabilities in the system to directly access the model.
+\end{itemize}
+
+\begin{tipbox}
+    \textbf{Mitigation Strategies:}
+    \begin{itemize}
+        \item Use secure inputs and adversarial resistance techniques to make models more robust to malicious inputs.
+        \item Implement data and model validation processes to detect and prevent data poisoning.
+        \item Adhere to secure-by-design principles throughout the AI development lifecycle.
+    \end{itemize}
+\end{tipbox}
+
+\section{AI Design and Implementation Failures}
+\label{sec:ai_design_failures}
+
+These risks arise from the design and implementation of AI systems, rather than from malicious attacks. These failures can have significant safety and reliability implications.
+
+\begin{itemize}
+    \item \textbf{Algorithmic Bias:} AI models can perpetuate and even amplify existing biases present in their training data. This can lead to unfair or discriminatory outcomes.
+    \item \textbf{Lack of Explainability:} Many advanced AI models are considered \"black boxes,\" making it difficult to understand how they arrive at their decisions. This lack of explainability can make it challenging to identify and correct errors.
+    \item \textbf{Cascading Failures:} In interconnected systems, a failure in one AI system can trigger a chain reaction of failures in other systems. This can lead to widespread disruptions and catastrophic outcomes.
+\end{itemize}
+
+\begin{tipbox}
+    \textbf{Mitigation Strategies:}
+    \begin{itemize}
+        \item Implement fairness-aware machine learning techniques to mitigate algorithmic bias.
+        \item Use explainable AI (XAI) techniques to make model decisions more transparent and understandable.
+        \item Conduct thorough risk assessments to identify and mitigate the potential for cascading failures.
+    \end{itemize}
+\end{tipbox}
 
 \section{A Framework for AI Security and Safety}
 \label{sec:security_framework}
